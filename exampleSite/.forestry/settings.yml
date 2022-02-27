@@ -7,14 +7,29 @@ sections:
 - type: document
   path: exampleSite/config.yml
   label: Configure
-- type: document
-  path: exampleSite/content/thanks.md
-  label: Thanks
 - type: directory
   path: exampleSite/content/blog
   label: Blog
   create: all
   match: "**/*"
+- type: document
+  path: exampleSite/content/archives.md
+  label: Archives
+- type: document
+  path: exampleSite/content/contact.md
+  label: Contact
+- type: document
+  path: exampleSite/content/search.md
+  label: Search
+- type: document
+  path: exampleSite/content/thanks.md
+  label: Thanks
+- type: document
+  path: exampleSite/content/legal/privacy.md
+  label: Privacy Policy
+- type: document
+  path: exampleSite/content/legal/terms-and-conditions.md
+  label: Terms and Conditions
 - type: directory
   path: exampleSite/content
   label: Pages
