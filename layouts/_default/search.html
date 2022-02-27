@@ -1,0 +1,45 @@
+{{- define "main" }}
+<div class="container min-h-80">
+    <div class="searchbox">
+        <hgroup>
+            <h1>{{- (printf "%s&nbsp;" .Title ) | htmlUnescape -}}
+                <svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 24 24" fill="none"
+                    stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                    <circle cx="11" cy="11" r="8"></circle>
+                    <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+                </svg>
+            </h1>
+            {{- $currentPage := . }}
+                <ul style="display:flex;gap:10px;flex-wrap:wrap;list-style-type: none;margin-top: 10px;">
+                    {{- range .Site.Menus.search }}
+                    {{- $menu_item_url := (cond (strings.HasSuffix .URL "/") .URL (printf "%s/" .URL) ) | absLangURL }}
+                    {{- $page_url:= $currentPage.Permalink | absLangURL }}
+                    {{- $is_search := eq ($.Site.GetPage .KeyName).Layout `search` }}
+
+                        <a href="{{ .URL | absLangURL }}" title="{{ .Title | default .Name }} {{- cond $is_search (" (Alt + /)" | safeHTMLAttr) ("" | safeHTMLAttr ) }}"
+                        {{- cond $is_search (" accesskey=/" | safeHTMLAttr) ("" | safeHTMLAttr ) }}>
+                            <kbd>
+                                {{- .Pre }}
+                                {{- .Name -}}
+                                {{ .Post -}}
+                            </kbd>
+                        </a>
+
+                    {{- end }}
+                </ul>
+            {{- if .Description }}
+            <div>
+                {{ .Description }}
+            </div>
+            {{- end }}
+        </hgroup>
+
+
+        <div id="searchbox">
+            <input id="searchInput" autofocus placeholder="{{ .Params.placeholder | default (printf "%s ↵" .Title) }}"
+                aria-label="search" type="search" autocomplete="off">
+            <div id="searchResults" aria-label="search results"></div>
+        </div>
+    </div>
+</div>
+{{- end }}

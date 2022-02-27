@@ -1,0 +1,75 @@
+---
+label: Blog
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+  description: What is the title of your blog?
+- type: datetime
+  name: date
+  label: date
+- type: text
+  name: url
+  label: url
+- type: list
+  name: categories
+  label: categories
+- type: list
+  name: tags
+  label: tags
+- type: boolean
+  name: showToc
+  label: showToc
+- type: boolean
+  name: TocOpen
+  label: TocOpen
+- type: boolean
+  name: hidemeta
+  label: hidemeta
+- type: boolean
+  name: comments
+  label: comments
+- type: text
+  name: description
+  label: description
+- type: boolean
+  name: disableHLJS
+  label: disableHLJS
+- type: boolean
+  name: disableShare
+  label: disableShare
+- type: boolean
+  name: hideSummary
+  label: hideSummary
+- type: boolean
+  name: searchHidden
+  label: searchHidden
+- type: boolean
+  name: ShowReadingTime
+  label: ShowReadingTime
+- type: boolean
+  name: ShowBreadCrumbs
+  label: ShowBreadCrumbs
+- type: boolean
+  name: ShowPostNavLinks
+  label: ShowPostNavLinks
+- type: field_group
+  name: cover
+  label: cover
+  fields:
+  - type: file
+    name: image
+    label: image
+  - type: text
+    name: alt
+    label: alt
+  - type: text
+    name: caption
+    label: caption
+  - type: boolean
+    name: relative
+    label: relative
+  - type: boolean
+    name: hidden
+    label: hidden

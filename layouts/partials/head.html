@@ -1,0 +1,96 @@
+<meta charset="UTF-8" />
+<title>
+  {{ if .IsHome }}{{ else }}{{ if .Title }}{{ .Title }} | {{ end }}{{ end }}{{
+  .Site.Title }}
+</title>
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+{{- /* Meta */}}
+
+<meta name="description" content="{{- with .Description }}{{ . }}{{- else }}{{- if or .IsPage .IsSection}}
+    {{- .Summary | default (printf "%s - %s" .Title  .Site.Title) }}{{- else }}
+    {{- with .Site.Params.description }}{{ . }}{{- end }}{{- end }}{{- end -}}">
+<meta name="author" content="{{ (partial "author.html" . ) }}">
+<link rel="canonical" href="{{ if .Params.canonicalURL -}} {{ trim .Params.canonicalURL " " }} {{- else -}} {{ .Permalink }} {{- end }}" />
+{{- if .Site.Params.analytics.google.SiteVerificationTag }}
+<meta name="google-site-verification" content="{{ .Site.Params.analytics.google.SiteVerificationTag }}" />
+{{- end }}
+{{- if .Site.Params.analytics.yandex.SiteVerificationTag }}
+<meta name="yandex-verification" content="{{ .Site.Params.analytics.yandex.SiteVerificationTag }}" />
+{{- end }}
+{{- if .Site.Params.analytics.bing.SiteVerificationTag }}
+<meta name="msvalidate.01" content="{{ .Site.Params.analytics.bing.SiteVerificationTag }}" />
+{{- end }}
+
+{{ "<!-- Main Stylesheet -->" | safeHTML }} 
+{{ $styles := resources.Get "sass/main.scss" | resources.ToCSS | minify }}
+<link rel="stylesheet" href="{{ $styles.Permalink }}" media="screen" />
+
+{{ "<!-- Nav Stylesheet -->" | safeHTML }}
+{{ $navstyles := resources.Get "sass/nav.scss" | resources.ToCSS | minify  }}
+<link rel="stylesheet" href="{{ $navstyles.Permalink }}" />
+
+{{ "<!-- plugins CSS -->" | safeHTML }} 
+{{ range site.Params.plugins.css }}
+<link rel="stylesheet" href="{{ .link | absURL }} " />
+{{ end }} 
+
+{{- /* Search */}}
+{{- if (eq .Layout `search`) -}}
+<link crossorigin="anonymous" rel="preload" as="fetch" href="../index.json">
+{{- $fastsearch := resources.Get "js/fastsearch.js" | js.Build (dict "params" (dict "fuseOpts" .Site.Params.fuseOpts)) }}
+{{- $fusejs := resources.Get "js/fuse.js" }}
+{{- if not .Site.Params.assets.disableFingerprinting }}
+{{- $search := (slice $fusejs $fastsearch ) | resources.Concat "assets/js/search.js" | minify | fingerprint }}
+<script defer crossorigin="anonymous" src="{{ $search.RelPermalink }}" integrity="{{ $search.Data.Integrity }}"></script>
+{{- else }}
+{{- $search := (slice $fusejs $fastsearch ) | resources.Concat "assets/js/search.js" | minify }}
+<script defer crossorigin="anonymous" src="{{ $search.RelPermalink }}"></script>
+{{- end }}
+{{- end -}}
+
+{{- /* Highlight.js */}}
+{{- $isHLJSdisabled := (.Site.Params.assets.disableHLJS | default .Params.disableHLJS ) }}
+{{- if (and (eq .Kind "page") (ne .Layout "archives") (ne .Layout "search") (not $isHLJSdisabled)) }}
+{{- if not .Site.Params.assets.disableFingerprinting }}
+{{- $highlight := slice (resources.Get "js/highlight.min.js") | resources.Concat "assets/js/highlight.js" | minify | fingerprint }}
+<script defer crossorigin="anonymous" src="{{ $highlight.RelPermalink }}" integrity="{{ $highlight.Data.Integrity }}"
+    onload="hljs.initHighlightingOnLoad();"></script>
+{{- else }}
+{{- $highlight := slice (resources.Get "js/highlight.min.js") | resources.Concat "assets/js/highlight.js" | minify }}
+<script defer crossorigin="anonymous" src="{{ $highlight.RelPermalink }}" onload="hljs.initHighlightingOnLoad();"></script>
+{{- end }}
+{{- end }}
+
+{{- /* Favicons */}}
+<link rel="icon" href="{{ .Site.Params.assets.favicon | default "favicon.ico" | absURL }}">
+<link rel="icon" type="image/png" sizes="16x16" href="{{ .Site.Params.assets.favicon16x16 | default "favicon-16x16.png" | absURL }}">
+<link rel="icon" type="image/png" sizes="32x32" href="{{ .Site.Params.assets.favicon32x32 | default "favicon-32x32.png" | absURL }}">
+<link rel="apple-touch-icon" href="{{ .Site.Params.assets.apple_touch_icon | default "apple-touch-icon.png" | absURL }}">
+<link rel="mask-icon" href="{{ .Site.Params.assets.safari_pinned_tab | default "safari-pinned-tab.svg" | absURL }}">
+<meta name="theme-color" content="{{ .Site.Params.assets.theme_color | default "#2e2e33" }}">
+<meta name="msapplication-TileColor" content="{{ .Site.Params.assets.msapplication_TileColor | default "#2e2e33" }}">
+
+{{- /* Generator */}}
+{{ hugo.Generator }}
+
+{{- /* RSS */}}
+{{ range .AlternativeOutputFormats -}}
+<link rel="{{ .Rel }}" type="{{ .MediaType.Type | html }}" href="{{ .Permalink | safeURL }}">
+{{ end -}}
+
+{{/*  Math Type Setting  */}}
+{{ if or .Params.math .Site.Params.math }}
+{{- partial "math.html" . }}
+{{ end }}
+
+{{- /* Misc */}}
+{{- if hugo.IsProduction | or (eq .Site.Params.env "production") }}
+{{- template "_internal/google_analytics.html" . }}
+{{- template "_internal/twitter_cards.html" . }}
+{{- template "partials/templates/opengraph.html" . }}
+{{- template "partials/templates/twitter_cards.html" . }}
+{{- template "partials/templates/schema_json.html" . }}
+
+{{- end -}}

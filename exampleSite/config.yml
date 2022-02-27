@@ -1,0 +1,163 @@
+---
+baseURL: https://heksagon.net/
+languageCode: en-us
+title: Piko
+theme: piko
+paginate: "9"
+copyright: A template by [Heksagon](https://www.heksagon.net "Your most friendly developer")
+googleAnalytics: # Enter Google Analytics ie. UA-012345678-9
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+enableEmoji: true
+outputs:
+  home:
+  - HTML
+  - RSS
+  - JSON
+minify:
+  disableCSS: false
+  disableHTML: false
+  disableJS: false
+  disableJSON: false
+  disableSVG: false
+  disableXML: false
+  minifyOutput: true
+  tdewolff:
+    html:
+      keepWhitespace: false
+
+params:
+  analytics:
+    google:
+      SiteVerificationTag: # Google Site Verification
+    yandex:
+      SiteVerificationTag: # Yandex Site Verification
+    bing:
+      SiteVerificationTag: # Bing Site Verification
+  env: production
+  author: Your Name
+  description: Your website description
+  math: false
+  images:
+  - "/uploads/og.webp"
+  label:
+    title: _Piko Title_
+    text: Welcome to Piko
+    icon: /uploads/zap.svg
+    iconHeight: "35"
+    iconWIdth: "35"
+  comments: true
+  mainSections:
+  - blog
+  ShowShareButtons: true
+  ShowCodeCopyButtons: true
+  ShowRelated: true
+  CookieNotice: We use cookies to improve your experience on our site and to show
+    you relevant advertising.
+  CookieLink: /legal/privacy/#cookies-and-web-beacons
+  CookieButton: Read More
+  disableAnchoredHeadings: false
+  contactFormAction: # Get link from https://formsubmit.io
+  assets:
+    disableFingerprinting: false
+    favicon: /uploads/zap.svg
+    favicon16x16: /uploads/zap.svg
+    favicon32x32: /uploads/zap.svg
+    apple_touch_icon: /uploads/zap.svg
+    safari_pinned_tab: /uploads/zap.svg
+  ShowReadingTime: true
+  ShowBreadCrumbs: true
+  homepage:
+    # Hero Section
+    disableHeroSection: false
+    heroUpperTitle: You can do
+    heroTitle: anything you like
+    heroDescription: Lightweight theme for your every need
+    heroCTAPrimaryText: Blog
+    heroCTAPrimaryUrl: "/blog/"
+    heroCTASecondaryText: Contact Me
+    heroCTASecondaryUrl: "/contact/"
+    heroBackgroundImage: "/uploads/portfolio-1.webp"
+    # Blog Section
+    disableBlogSection: false
+    blogTitle: Latest Posts
+    blogDescription: This is my latest blog posts
+    seeMoreText: More
+    # About Section    
+    disableAboutSection: false
+    aboutTitle: About
+    aboutDescription: Just something about me
+    aboutImgUrl: "/uploads/self.webp"
+    aboutContent: Hi guys. This is where you put something about yourself.
+    # Portfolio Section
+    disablePortfolioSection: false
+    portfolioTitle: Portfolio
+    portfolioDescription: Some of my works
+    portfolio:
+    - imageUrl: /uploads/portfolio-1.webp
+      alt: # image alt for better SEO
+      description: Portfolio One.
+      websiteUrl: #
+    - imageUrl: /uploads/portfolio-2.webp
+      alt: # image alt for better SEO
+      description: Portfolio Two.
+      websiteUrl: #
+    - imageUrl: /uploads/portfolio-3.webp
+      alt: # image alt for better SEO
+      description: Portfolio Three.
+      websiteUrl: #
+  # Search Options (https://fusejs.io/)
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: "0"
+    distance: "1000"
+    threshold: "0.4"
+    minMatchCharLength: "0"
+    keys:
+    - title
+    - permalink
+    - summary
+    - content
+  plugins:
+    css:
+    - link: plugins/css/pico.min.css
+    js:
+    - link: plugins/js/feather.min.js
+menus:
+  main: # Main Menu
+  - name: Blog
+    title: Blog
+    pre: pen-tool
+    url: "/blog"
+    weight: "20"
+  - name: Search
+    title: Search
+    pre: search
+    url: "/search"
+    weight: "30"
+  - name: Contact
+    title: Contact
+    pre: mail
+    url: "/contact"
+    weight: "40"
+  - name: Github
+    title: 
+    pre: github
+    url: https://github.com/heksagonnet/
+    weight: "50"
+  search: # Search page's quick links
+  - name: Categories
+    title: Categories
+    url: "/categories"
+    weight: "10"
+  - name: Archives
+    title: Archives
+    url: "/archives"
+    weight: "20"
+  - name: Tags
+    title: Tags
+    url: "/tags"
+    weight: "30"

@@ -1,0 +1,97 @@
+// Nav
+@media (min-width: 576px) {
+  .mobile-navigation {
+    display: none;
+  }
+}
+@media (min-width: 0px) and (max-width: 400px) {
+  nav.desktop {
+    padding: 0 0.25rem;
+  }
+}
+@media (min-width: 0px) and (max-width: 576px) {
+  .desktop-navigation {
+    display: none;
+  }
+}
+
+@media (min-width: 0px) and (max-width: 700px) {
+  .desktop-navigation span {
+    display: none;
+  }
+}
+nav button,
+nav button:hover,
+nav button:active,
+nav button:focus {
+  margin: 0;
+  padding: 0;
+  border: none;
+  outline: none;
+  background-color: transparent;
+}
+
+// Fixed navbar
+body > nav {
+  z-index: 99;
+  position: fixed;
+  top: 0;
+  right: 0;
+  left: 0;
+  padding: 0 var(--spacing);
+
+  h1 {
+    margin-bottom: 0;
+    font-size: 1.25rem;
+    text-transform: uppercase;
+  }
+
+  a,
+  button {
+    color: var(--secondary);
+  }
+}
+
+// Sidebar
+.sidebar {
+  display: none;
+  position: fixed;
+  padding: 1rem;
+  background-color: var(--background-color);
+  box-shadow: var(--card-box-shadow);
+  min-width: 100%;
+  button {
+    position: absolute;
+    top: var(--spacing);
+    right: var(--spacing);
+    width: 1.5rem;
+    height: 1.5rem;
+    border-radius: 2rem;
+    line-height: 1;
+  }
+
+  h3,
+  a,
+  a:hover,
+  a:active,
+  a:focus {
+    color: var(--secondary);
+  }
+}
+
+.mobile-navigation > li > button > svg {
+  width: 30px;
+  height: 30px;
+}
+
+// Icons
+.sidebar,
+body > nav {
+  svg {
+    height: 1rem;
+  }
+}
+
+#switch {
+  display: none;
+}

@@ -1,0 +1,24 @@
+{{- define "main" }}
+<div class="container  min-h-80">
+    {{- if .Title }}
+        <h1>{{ .Title }}</h1>
+        {{- if .Description }}
+            <h2>{{ .Description }}</h2>
+        {{ end }}
+    {{- end }}
+
+    {{- $type := .Type }}
+    {{- range $key, $value := .Data.Terms.Alphabetical }}
+    {{- $name := .Name }}
+    {{- $count := .Count }}
+    {{- with $.Site.GetPage (printf "/%s/%s" $type $name) }}
+    <a href="{{ .Permalink }}">
+        <kbd>
+            {{ .Name }} <sup><strong><sup>{{ $count }}</sup></strong></sup> 
+        </kbd>
+    </a>
+    {{- end }}
+    {{- end }}
+
+</div>
+{{- end }}

@@ -1,0 +1,68 @@
+{{ define "main" }}
+<div class="container">
+  <hgroup>
+    {{ partial "breadcrumbs.html" . }}
+    <h1>{{ .Title }}</h1>
+    {{- partial "post_meta.html" . -}}
+    <p>{{ .Description }}</p>
+  </hgroup>
+  {{- if .Params.tags }} {{- range ($.GetTerms "tags") }}
+  <a href="{{ .Permalink }}">
+    <kbd>{{ .LinkTitle }}</kbd>
+  </a>
+  {{- end }} {{- end }}
+
+  <div class="grid grid-main">
+    <div>
+      {{- if (.Param "ShowToc") }}
+        <article class="toc">
+          {{- partial "toc.html" . }} 
+        </article>
+      {{- end }}
+      
+      {{if .Params.Cover.Image }}<img
+        class="cover"
+        src="{{.Params.Cover.Image | absURL}}"
+        width="600"
+        height="400"
+        align="left"
+        layout="responsive"
+      >
+      </img
+      >{{end}}
+    
+      <div class="post">
+        
+        {{ partial "social-share.html" . }} {{- if not (.Param
+        "disableAnchoredHeadings") }} {{- partial "anchored_headings.html"
+        .Content -}} {{- else }}{{ .Content }}{{ end }}
+      </div>
+
+      {{ partial "social-share.html" . }}
+    </div>
+    
+    {{- if (.Param "ShowRelated") }} 
+    <aside>
+      <article>
+        {{ $related := .Site.RegularPages.Related . | first 5 }} {{ with
+        $related }}
+        <h3>See Also</h3>
+
+        {{ range . }}
+
+        <a href="{{ .RelPermalink }}">
+          <hgroup>
+            <h4><i>{{ .Title }}</i></h4>
+            <p>{{- partial "post_meta.html" . -}}</p>
+          </hgroup>
+        </a>
+
+        {{ end }} {{ end }} 
+      </article>
+    </aside>
+    {{ end }}
+    
+  </div>
+  {{- if (.Site.Params.comments) }} {{- partial "comments.html" . }} {{- end }}
+</div>
+{{ end }}

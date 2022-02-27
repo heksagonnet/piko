@@ -1,0 +1,17 @@
+<article class="hidden" id="cookie-banner">
+  <div>
+       <span>
+          {{ .Site.Params.CookieNotice }}
+       </span>
+  </div>
+  <footer>
+       <a role="button" id="consent-cookies">
+              Close
+       </a>
+       <a role="button" class="secondary" href="{{ .Site.Params.CookieLink | relURL}}" >{{ .Site.Params.CookieButton }}</a>     
+  </footer>
+</article>
+
+{{ "<!-- Cookies Script -->" | safeHTML }}
+{{ $cookies := resources.Get "js/cookie.js" | minify}}
+<script async src="{{ $cookies.Permalink }}" layout="container"></script>
