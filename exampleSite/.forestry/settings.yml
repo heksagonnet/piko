@@ -5,22 +5,22 @@ admin_path:
 webhook_url: 
 sections:
 - type: document
-  path: config.yml
+  path: exampleSite/config.yml
   label: Configure
 - type: document
-  path: content/thanks.md
+  path: exampleSite/content/thanks.md
   label: Thanks
 - type: directory
-  path: content/blog
+  path: exampleSite/content/blog
   label: Blog
   create: all
   match: "**/*"
 - type: directory
-  path: content
+  path: exampleSite/content
   label: Pages
   create: all
   match: "*"
-upload_dir: static/uploads
+upload_dir: exampleSite/static/uploads
 public_path: "/uploads"
 front_matter_path: ''
 use_front_matter_path: false
