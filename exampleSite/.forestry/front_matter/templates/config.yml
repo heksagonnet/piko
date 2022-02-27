@@ -1,0 +1,8 @@
+---
+label: Config
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+  description: What is the title of your Website?
