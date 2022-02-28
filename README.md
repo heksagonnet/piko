@@ -59,7 +59,7 @@ Piko | <a target="_blank" href="https://piko-heksagon.netlify.app/" rel="nofollo
 Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/heksagonnet/piko)
 
 ---
-## Local development
+## Local Development
 
 If you wish to develop in your local environment, make sure you have installed:
 - [Hugo](https://gohugo.io/getting-started/installing/)
@@ -69,7 +69,7 @@ Then open command prompt in your development folder.
 
 ```yml
 # Clone the repository
-git clone https://github.com/heksagonnet/piko.git
+$ git clone https://github.com/heksagonnet/piko.git
 
 # cd in the project directory
 $ cd piko/exampleSite/
