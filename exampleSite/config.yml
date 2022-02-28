@@ -57,7 +57,7 @@ params:
   CookieNotice: We use cookies to improve your experience on our site and to show
     you relevant advertising.
   CookieLink: /legal/privacy/#cookies-and-web-beacons
-  CookieButton: Read More
+  CookieButton: Cookies Policy
   disableAnchoredHeadings: false
   contactFormAction: # Get link from https://formsubmit.io
   assets:
@@ -84,7 +84,7 @@ params:
     disableBlogSection: false
     blogTitle: Latest Posts
     blogDescription: This is my latest blog posts
-    seeMoreText: More
+    seeMoreText: More Posts
     # About Section    
     disableAboutSection: false
     aboutTitle: About
