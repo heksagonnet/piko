@@ -1,7 +1,7 @@
 {{ define "main" }}
 {{- if not (.Site.Params.homepage.disableHeroSection) }}
 <section class="hero" style="background-image:linear-gradient(rgba(20,30,38, 0.9), rgba(24,44,54, 0.8)),
-url('{{.Site.Params.homepage.heroBackgroundImage}}');">
+url('{{.Site.Params.homepage.heroBackgroundImage}}'); ">
   <header class="container">
     <hgroup>
       <h1>{{.Site.Params.homepage.heroUpperTitle}}</h1>
@@ -64,7 +64,7 @@ url('{{.Site.Params.homepage.heroBackgroundImage}}');">
     </div>
   </div>
   <div class="text-center">
-  <a href="{{ "/blog" | absLangURL }}" accesskey="h"><kbd>{{.Site.Params.homepage.seeMoreText}}</kbd></a>
+  <a href="{{ "/blog" | absLangURL }}"><kbd>{{.Site.Params.homepage.seeMoreText}}</kbd></a>
 </div>
 </section>
 {{ end }}
@@ -80,6 +80,7 @@ url('{{.Site.Params.homepage.heroBackgroundImage}}');">
       <div class="container" style="text-align: right;">
         <img
           src=" {{.Site.Params.homepage.aboutImgUrl}}"
+          alt="{{.Site.Params.author}}"
           width="300"
           height="450"
           layout="intrinsic"

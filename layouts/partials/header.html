@@ -6,6 +6,7 @@
       <a class="logo" href="{{ "" | absLangURL }}" accesskey="h" title="{{ $label_text }} (Alt + h)">
         <img
           src="{{.Site.Params.label.icon | relURL}}"
+          alt="{{ $label_text }}"
           width="{{.Site.Params.label.iconHeight | safeHTML }}"
           height="{{.Site.Params.label.iconWidth | safeHTML }}"
         ></img>
@@ -59,7 +60,7 @@
 <!-- ./ Nav -->
 
 <!--Sidebar -->
-<aside class="sidebar" id="mobileNav">
+<aside class="sidebar" id="mobileNav" style="display: none;">
     <nav>
       {{- $currentPage := . }}
       <ul>

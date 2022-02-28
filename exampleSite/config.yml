@@ -72,8 +72,8 @@ params:
   homepage:
     # Hero Section
     disableHeroSection: false
-    heroUpperTitle: You can do
-    heroTitle: anything you like
+    heroUpperTitle: 
+    heroTitle: Piko
     heroDescription: Lightweight theme for your every need
     heroCTAPrimaryText: Blog
     heroCTAPrimaryUrl: "/blog/"
