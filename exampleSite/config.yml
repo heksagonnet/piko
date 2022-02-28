@@ -146,7 +146,7 @@ menus:
   - name: Github
     title: 
     pre: github
-    url: https://github.com/heksagonnet/
+    url: https://github.com/heksagonnet/piko
     weight: "50"
   search: # Search page's quick links
   - name: Categories

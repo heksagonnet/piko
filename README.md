@@ -32,10 +32,10 @@ Piko | <a target="_blank" href="https://piko-heksagon.netlify.app/" rel="nofollo
 ## Features
 - Powered by [Hugo Static Site Generator](https://gohugo.io/ "Hugo: The world’s fastest framework for building websites")
 - Styled by [Pico CSS](https://picocss.com/ "Pico CSS")
-- SCSS
-- Google analytics
+- [SCSS](https://sass-lang.com/)
+- [Google analytics](https://analytics.google.com/)
 - Minified CSS and JS
-- Predefined Netlify settings
+- Predefined [Netlify](https://www.netlify.com/) settings
 - Pre-configured [Forestry CMS](https://forestry.io/)
 - Easy contact form using [FormSubmit.io](http://formsubmit.io/)
 - Search by [Fuse.js](https://fusejs.io/)
@@ -45,3 +45,35 @@ Piko | <a target="_blank" href="https://piko-heksagon.netlify.app/" rel="nofollo
 - Google page speed optimized
 - Open graph meta tag
 - Twitter card meta tag
+
+---
+## Quick Deploy
+
+1. Have a free/paid version:
+- [Github Account](https://github.com/)
+- [Netlify Account](https://www.netlify.com/)
+
+2. Then click:
+   
+[![Deploy to
+Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/heksagonnet/piko)
+
+---
+## Local development
+
+If you wish to develop in your local environment, make sure you have installed:
+- [Hugo](https://gohugo.io/getting-started/installing/)
+- [Git](https://git-scm.com/downloads)
+ 
+Then open command prompt in your development folder.
+
+```yml
+# Clone the repository
+git clone https://github.com/heksagonnet/piko.git
+
+# cd in the project directory
+$ cd piko/exampleSite/
+
+# Start local dev server
+$ hugo server --themesDir ../..
+```
