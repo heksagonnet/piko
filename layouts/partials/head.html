@@ -25,24 +25,15 @@
 
 {{ "<!-- Main Stylesheet -->" | safeHTML }} 
 {{ $styles := resources.Get "sass/main.scss" | resources.ToCSS | minify }}
-<link rel="preload" as="style" href="{{ $styles.Permalink }}" media="screen" onload="this.rel = 'stylesheet'" />
-<noscript>
-  <link rel="stylesheet" href="{{ $styles.Permalink }}" media="screen" />
-</noscript>
+<link rel="stylesheet" href="{{ $styles.Permalink }}" media="screen" />
 
 {{ "<!-- Nav Stylesheet -->" | safeHTML }}
 {{ $navstyles := resources.Get "sass/nav.scss" | resources.ToCSS | minify  }}
-<link rel="preload" as="style" href="{{ $navstyles.Permalink }}" onload="this.rel = 'stylesheet'" />
-<noscript>
-  <link rel="stylesheet" href="{{ $navstyles.Permalink }}" />
-</noscript>
+<link rel="stylesheet" href="{{ $navstyles.Permalink }}" />
 
 {{ "<!-- plugins CSS -->" | safeHTML }} 
 {{ range site.Params.plugins.css }}
-<link rel="preload" as="style" href="{{ .link | absURL }} " onload="this.rel = 'stylesheet'" />
-<noscript>
-  <link rel="stylesheet" href="{{ .link | absURL }} " />
-</noscript>
+<link rel="stylesheet" href="{{ .link | absURL }} " />
 {{ end }} 
 
 {{- /* Search */}}
