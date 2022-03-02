@@ -22,7 +22,7 @@ Piko | <a target="_blank" href="https://piko-heksagon.netlify.app/" rel="nofollo
 
 ---
 
-![Piko is a minimalistic and fast theme powered by Hugo for building a blog or portfolio.](images/screenshot.png)
+![Piko is a minimalistic and fast theme powered by Hugo for building a blog or portfolio.](https://raw.githubusercontent.com/heksagonnet/piko/master/exampleSite/static/uploads/piko-screenshot.webp)
 
 <p align='center'>
 "Piko is a minimalistic and fast theme powered by Hugo for building a blog or portfolio."
@@ -88,31 +88,31 @@ $ hugo server --themesDir ../..
 
 1. Visit [Forestry.io](https://forestry.io/) and login with Github
 
-![Login with Github](images/forestry-1.webp)
+![Login with Github](https://raw.githubusercontent.com/heksagonnet/piko/master/images/forestry-1.webp)
 
 2. Click 'Add Site'
 
-![Add Site](images/forestry-2.webp)
+![Add Site](https://raw.githubusercontent.com/heksagonnet/piko/master/images/forestry-2.webp)
 
 3. Choose Hugo and click Next
 
-![Chooose Hugo](images/forestry-3.webp)
+![Chooose Hugo](https://raw.githubusercontent.com/heksagonnet/piko/master/images/forestry-3.webp)
 
 4. Choose Github and click Next
 
-![Chooose Github](images/forestry-4.webp)
+![Chooose Github](https://raw.githubusercontent.com/heksagonnet/piko/master/images/forestry-4.webp)
 
 5. Choose the repo that you have kept the Piko theme, type 'exampleSite' in Config Path and click 'Check For Config'. When it says 'Config file Found!', click Next.
 
-![Chooose Git repo](images/forestry-5.webp)
+![Chooose Git repo](https://raw.githubusercontent.com/heksagonnet/piko/master/images/forestry-5.webp)
 
 6. Click all 'Mark as done'.
 
-![Chooose Git repo](images/forestry-6.webp)
+![Chooose Git repo](https://raw.githubusercontent.com/heksagonnet/piko/master/images/forestry-6.webp)
 
 7. Replace the BASEURL in Configure to your domain name or custom domain name set in Netlify [as above](https://github.com/heksagonnet/piko#quick-deploy).
 
-![Chooose Git repo](images/forestry-7.webp)
+![Chooose Git repo](https://raw.githubusercontent.com/heksagonnet/piko/master/images/forestry-7.webp)
 
 8. Edit your website to your heart's content!
 

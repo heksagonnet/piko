@@ -9,5 +9,5 @@ features = ['picco','responsive']
 min_version = "0.91.0"
 
 [author]
-  name = "Nasir"
+  name = "Heksagon"
   homepage = "http://www.heksagon,net/"
