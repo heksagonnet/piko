@@ -32,8 +32,10 @@ Piko | <a target="_blank" href="https://piko-heksagon.netlify.app/" rel="nofollo
 ## Features
 - Powered by [Hugo Static Site Generator](https://gohugo.io/ "Hugo: The world’s fastest framework for building websites")
 - Styled by [Pico CSS](https://picocss.com/ "Pico CSS")
-- [SCSS](https://sass-lang.com/)
+- [SASS/SCSS](https://sass-lang.com/)
+- Icons by [FeatherIcons](https://feathericons.com/)
 - [Google analytics](https://analytics.google.com/)
+- Math typesetting [KaTex](https://katex.org/)
 - Minified CSS and JS
 - Predefined [Netlify](https://www.netlify.com/) settings
 - Pre-configured [Forestry CMS](https://forestry.io/)
@@ -58,6 +60,8 @@ Piko | <a target="_blank" href="https://piko-heksagon.netlify.app/" rel="nofollo
 [![Deploy to
 Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/heksagonnet/piko)
 
+And click next for all.
+
 ---
 ## Local Development
 
@@ -77,3 +81,45 @@ $ cd piko/exampleSite/
 # Start local dev server
 $ hugo server --themesDir ../..
 ```
+
+---
+
+## Forestry.io CMS Setup
+
+1. Login with Github
+
+![Login with Github](static/img/forestry-1.webp)
+
+2. Click 'Add Site'
+
+![Add Site](static/img/forestry-2.webp)
+
+3. Choose Hugo and click Next
+
+![Chooose Hugo](static/img/forestry-3.webp)
+
+4. Choose Github and click Next
+
+![Chooose Github](static/img/forestry-4.webp)
+
+5. Choose the repo that you have kept the Piko theme, type 'exampleSite' in Config Path and click 'Check For Config'. When it says 'Config file Found!', click Next.
+
+![Chooose Git repo](static/img/forestry-5.webp)
+
+6. Click all 'Mark as done'.
+
+![Chooose Git repo](static/img/forestry-6.webp)
+
+7. Replace the BASEURL in Configure to your domain name or custom domain name set in Netlify [as above](https://github.com/heksagonnet/piko#quick-deploy).
+
+![Chooose Git repo](static/img/forestry-7.webp)
+
+8. Edit your website to your heart's content!
+
+---
+
+## Hire me
+
+Besides developing stunning and blazing fast website templates, I also provide web design services. My speciality is in creating high-quality static websites based on Hugo.
+
+If you are interested to know more, do not hesitate to [contact me here.](https://www.heksagon.net/contact/)
