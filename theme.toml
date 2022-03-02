@@ -2,12 +2,12 @@ name = "Piko"
 license = "MIT"
 licenselink = "https://github.com/heksagonnet/piko/blob/master/LICENSE"
 description = "Piko is a minimalistic and fast theme powered by Hugo for building a blog or portfolio."
-homepage = ""
-demosite = ""
+homepage = "https://github.com/heksagonnet/piko"
+demosite = "https://piko-heksagon.netlify.app/"
 tags = ['landing-page', 'fast', 'light', 'dark', 'modern', 'heksagon', 'hugo-theme', 'hugo-templates', 'picco', 'blog', 'responsive', 'clean', 'simple', 'creative', 'contact-form', 'custom-themes', 'mobile', 'minimalistic', 'pages', 'resume', 'portfolio', 'google analytics', 'customizable', 'search', 'presentation', 'product', 'theme', 'typography']
 features = ['picco','responsive']
 min_version = "0.91.0"
 
 [author]
-  name = "Heksagon"
+  name = "Nasir"
   homepage = "http://www.heksagon,net/"
