@@ -1,3 +1,24 @@
+/* Can be forced with data-theme="light" */
+[data-theme="light"],
+:root:not([data-theme="dark"]) {
+  --muted-color: #4b555c !important;
+  --link-color: #27455a !important;
+}
+
+/* Automatically enabled if user has Dark mode enabled */
+@media only screen and (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --muted-color: #8fa3b1 !important;
+    --link-color: #4c82a8 !important;
+  }
+}
+
+/* Enabled if forced with data-theme="dark" */
+[data-theme="dark"] {
+  --muted-color: #8fa3b1 !important;
+  --link-color: #4c82a8 !important;
+}
+
 :root {
   --spacing-hero: 5rem;
   --border-radius: 0.3rem !important;
@@ -26,6 +47,7 @@ html {
   }
   .hero-buttons {
     margin: 10px 10px 10px 0;
+    color: var(--mark-color);
   }
 }
 header {
@@ -36,18 +58,6 @@ header {
   width: fit-content;
   display: flex;
   align-items: center;
-}
-
-nav {
-  span {
-    padding: 0.225rem 0;
-  }
-  &.desktop {
-    background-color: var(--background-color);
-  }
-  .menu-active {
-    border-bottom: 5px var(--secondary) solid;
-  }
 }
 
 @media (min-width: 0px) and (max-width: 1200px) {
@@ -75,6 +85,7 @@ img,
 
 a {
   text-decoration: none !important;
+  color: var(--link-color);
 }
 
 .grid {

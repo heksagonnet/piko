@@ -1,5 +1,5 @@
 <h1 align='center'>
-Piko | <a target="_blank" href="https://piko-heksagon.netlify.app/" rel="nofollow">Demo</a>
+Piko | <a target="_blank" href="https://piko-heksagon.netlify.app/" rel="nofollow">Demo</a> | <a target="_blank" href="https://googlechrome.github.io/lighthouse/viewer/?gist=f7cc22c0b0323e1b36e5d47bf2393acf" rel="nofollow">Lighthouse report (100%)</a>
 </h1>
 
 <p align='center'>
@@ -44,7 +44,7 @@ Piko | <a target="_blank" href="https://piko-heksagon.netlify.app/" rel="nofollo
 - Cookie Notice, GDPR Compliant
 - Reading time calculation for posts
 - Multiple author and single author available
-- Google page speed optimized
+- [Google page speed optimized (100%)](https://googlechrome.github.io/lighthouse/viewer/?gist=f7cc22c0b0323e1b36e5d47bf2393acf)
 - Open graph meta tag
 - Twitter card meta tag
 

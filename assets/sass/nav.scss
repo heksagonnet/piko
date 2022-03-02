@@ -45,10 +45,17 @@ body > nav {
     font-size: 1.25rem;
     text-transform: uppercase;
   }
+}
 
-  a,
-  button {
-    color: var(--secondary);
+nav {
+  span {
+    padding: 0.225rem 0;
+  }
+  &.desktop {
+    background-color: var(--background-color);
+  }
+  .menu-active {
+    border-bottom: 5px var(--primary) solid;
   }
 }
 

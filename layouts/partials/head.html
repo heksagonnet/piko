@@ -25,7 +25,7 @@
 
 {{ "<!-- Main Stylesheet -->" | safeHTML }} 
 {{ $styles := resources.Get "sass/main.scss" | resources.ToCSS | minify }}
-<link rel="stylesheet" href="{{ $styles.Permalink }}" media="screen" />
+<link rel="stylesheet" href="{{ $styles.Permalink }}" />
 
 {{ "<!-- Nav Stylesheet -->" | safeHTML }}
 {{ $navstyles := resources.Get "sass/nav.scss" | resources.ToCSS | minify  }}
