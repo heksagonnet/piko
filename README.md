@@ -86,7 +86,7 @@ $ hugo server --themesDir ../..
 
 ## Forestry.io CMS Setup
 
-1. Login with Github
+1. Visit [Forestry.io](https://forestry.io/) and login with Github
 
 ![Login with Github](static/img/forestry-1.webp)
 
