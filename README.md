@@ -39,7 +39,7 @@ Piko | <a target="_blank" href="https://piko-heksagon.netlify.app/" rel="nofollo
 - Minified CSS and JS
 - Predefined [Netlify](https://www.netlify.com/) settings
 - Pre-configured [Forestry CMS](https://forestry.io/)
-- Easy contact form using [FormSubmit.io](http://formsubmit.io/)
+- Easy contact form using [FormSubmit.io](http://formsubmit.io/) or [Fabform.io](https://fabform.io)
 - Search by [Fuse.js](https://fusejs.io/)
 - Cookie Notice, GDPR Compliant
 - Reading time calculation for posts

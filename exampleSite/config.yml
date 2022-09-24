@@ -59,7 +59,7 @@ params:
   CookieLink: /legal/privacy/#cookies-and-web-beacons
   CookieButton: Cookies Policy
   disableAnchoredHeadings: false
-  contactFormAction: # Get link from https://formsubmit.io
+  contactFormAction: # Get link from https://formsubmit.io or https://fabform.io
   assets:
     disableFingerprinting: false
     favicon: /uploads/zap.svg
