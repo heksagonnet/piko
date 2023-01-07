@@ -79,7 +79,7 @@ params:
     heroCTAPrimaryUrl: "/blog/"
     heroCTASecondaryText: Contact Me
     heroCTASecondaryUrl: "/contact/"
-    heroBackgroundImage: "/uploads/portfolio-1.webp"
+    heroBackgroundImage: "/uploads/mypic.jpg"
     # Blog Section
     disableBlogSection: false
     blogTitle: Latest Posts
