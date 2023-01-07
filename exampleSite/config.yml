@@ -74,8 +74,8 @@ params:
     disableHeroSection: false
     heroUpperTitle: 
     heroTitle: Jean's Projects
-    heroDescription: My test theme for your every need
-    heroCTAPrimaryText: Blog
+    heroDescription: A place to share my creativity and my learning journey with the world. 
+    heroCTAPrimaryText: Posts
     heroCTAPrimaryUrl: "/blog/"
     heroCTASecondaryText: Contact Me
     heroCTASecondaryUrl: "/contact/"
@@ -83,14 +83,14 @@ params:
     # Blog Section
     disableBlogSection: false
     blogTitle: Latest Posts
-    blogDescription: This is my latest blog posts
+    blogDescription: These are Jean's latest posts
     seeMoreText: More Posts
     # About Section    
     disableAboutSection: false
     aboutTitle: About
     aboutDescription: Just something about me
-    aboutImgUrl: "/uploads/self.webp"
-    aboutContent: Hi guys. This is where you put something about yourself.
+    aboutImgUrl: "/uploads/jean.jpg"
+    aboutContent: In this area I plan to write a quick summary about myself linking my [resume] page. 
     # Portfolio Section
     disablePortfolioSection: false
     portfolioTitle: Portfolio
@@ -139,25 +139,30 @@ menus:
     url: "/search"
     weight: "30"
   - name: Contact
-    title:
+    title: Email
     pre: mail
     url: "/contact"
     weight: "40"
   - name: Github
-    title: 
+    title: Github
     pre: github
     url: https://github.com/heksagonnet/piko 
     weight: "50"
   - name: Youtube
     title: Youtube
-    pre: 
+    pre: youtube
     url: https://www.youtube.com/channel/UCpYBncsI47H6JD1NoMFCdwQ
     weight: "60"
   - name: LinkedIn
     title: LinkedIn
-    pre: 
+    pre: linkedin
     url: https://www.linkedin.com/in/jean-jan-burgos/
     weight: "70" 
+  - name: Rasume
+    title: Resume
+    pre: briefcase
+    url: ""
+    weight: "80" 
   search: # Search page's quick links
   - name: Categories
     title: Categories

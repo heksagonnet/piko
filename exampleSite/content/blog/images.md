@@ -1,8 +1,8 @@
 ---
 author: "Hugo Authors"
-title: "Adding Images"
+title: "Resume"
 date: "2022-03-05"
-description: "Guide to adding images in Piko theme"
+description: "My digital resume"
 tags: ["images","markdown", "css", "html", "themes"]
 categories: ["themes", "syntax"]
 ShowRelated: false
