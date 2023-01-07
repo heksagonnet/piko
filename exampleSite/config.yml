@@ -146,12 +146,12 @@ menus:
   - name: Github
     title: 
     pre: github
-    url: https://github.com/heksagonnet/piko
+    url: https://github.com/heksagonnet/piko 
     weight: "50"
   - name: Youtube
     title: Youtube
     pre: 
-    url: https://www.youtube.com/channel/UCpYBncsI47H6JD1NoMFCdwQ/
+    url: https://www.youtube.com/channel/UCpYBncsI47H6JD1NoMFCdwQ
     weight: "60"
   - name: LinkedIn
     title: LinkedIn
@@ -171,3 +171,4 @@ menus:
     title: Tags
     url: "/tags"
     weight: "30"
+    
