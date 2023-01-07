@@ -1,7 +1,7 @@
 ---
-baseURL: https://piko-heksagon.netlify.app/
+baseURL: https://vocal-rabanadas-6f33e3.netlify.app
 languageCode: en-us
-title: Piko
+title: Jean Projects
 theme: piko
 paginate: "9"
 copyright: A template by [Heksagon](https://www.heksagon.net "Your most friendly developer")
@@ -37,14 +37,14 @@ params:
     bing:
       SiteVerificationTag: # Bing Site Verification
   env: production
-  author: Your Name
-  description: Your website description
+  author: Jean Burgos
+  description: My website description
   math: false
   images:
   - "/uploads/og.webp"
   label:
-    title: _Piko Title_
-    text: Welcome to Piko
+    title: _Jean Projects_
+    text: Welcome to Jean's Projects
     icon: /uploads/zap.svg
     iconHeight: "35"
     iconWIdth: "35"
@@ -73,8 +73,8 @@ params:
     # Hero Section
     disableHeroSection: false
     heroUpperTitle: 
-    heroTitle: Piko
-    heroDescription: Lightweight theme for your every need
+    heroTitle: Jean's Projects
+    heroDescription: My test theme for your every need
     heroCTAPrimaryText: Blog
     heroCTAPrimaryUrl: "/blog/"
     heroCTASecondaryText: Contact Me
@@ -139,7 +139,7 @@ menus:
     url: "/search"
     weight: "30"
   - name: Contact
-    title: Contact
+    title:
     pre: mail
     url: "/contact"
     weight: "40"
@@ -148,6 +148,16 @@ menus:
     pre: github
     url: https://github.com/heksagonnet/piko
     weight: "50"
+  - name: Youtube
+    title: Youtube
+    pre: 
+    url: https://www.youtube.com/channel/UCpYBncsI47H6JD1NoMFCdwQ/
+    weight: "60"
+  - name: LinkedIn
+    title: LinkedIn
+    pre: 
+    url: https://www.linkedin.com/in/jean-jan-burgos/
+    weight: "70" 
   search: # Search page's quick links
   - name: Categories
     title: Categories
