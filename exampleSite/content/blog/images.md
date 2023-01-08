@@ -12,14 +12,15 @@ ShowBreadCrumbs: false
 
 This post contains my resume in a web version as well as a [.pdf download](/uploads/JeanBurgosHoHDEC.pdf) version.
 
-# <center>**Jean Burgos**
-## <center>INFORMATION TECHNOLOGY PROJECT MANAGER
-## `Summary`
+# **Jean Burgos** ![](/uploads/jean.jpg)
+### INFORMATION TECHNOLOGY PROJECT MANAGER
+#### Summary
 IT Project Manager and US Army Veteran with 22+ years of experience in network engineering, cross-functional leadership, and project management. Managed budgets of 10M on average for the installation and maintenance of field WAN/LAN. Delivered the installation of fiber, copper, RAN, and wireless infrastructures using hybrid approaches in matrix organizations. Established trust and removed impediments supporting diverse teams of SMEs to meet project goals. Planned, designed, and implemented network modernization and telecommunications projects to provide voice, and data capabilities to the organization. Administrated access to Microsoft cloud resources. Passionate about radio and networking communications to empower customers to turn ideas into reality. Holds a Secret Security Clearance.
-## `Education`
-- Master of Science (M.S.), Information Technology | University of Arkansas Grantham
-- Bachelor of Science (B.S.), Business Administration | University of Incarnate Word
-## `Certifications`
+#### Education
+![s](/uploads/grantham1.png)Master of Science, Information Technology | University of Arkansas Grantham
+![s](/uploads/uiw.png) Bachelor of Science, Business Administration | University of Incarnate Word 
+
+#### Certifications
 - Project Management Professional (PMP)
 - Security +
 - Network +
@@ -27,16 +28,12 @@ IT Project Manager and US Army Veteran with 22+ years of experience in network e
 - ITIL Foundation
 - AZ-900 Azure Fundamentals
 - Lean Six Sigma Green Belt (LSSGB)
-## `Professional Experience`
-
-<ul><img src="army.png"
-     style="float: right; margin-right: 20px;"/>
-</ul>
-United States Army
+#### Professional Experience 
+### !["United States Army"](/uploads/army.png)   United States Army
 
 ---
 
-###### Senior Information Technology Project Manager (2021-Present)
+###### **Senior Information Technology Project Manager (2021-Present)**
  <details>
    <summary><mark>Expand for more details</mark></summary>
 
@@ -47,7 +44,7 @@ United States Army
    + Cross-leveled and developed talent; filled critical skills gaps and staffing needs for six internal and external IT departments; coordinated with HR to keep track of the proper alignment and manned cycles to meet unique customer requirements  
  </details>
 
-###### Senior Project Manager (2018-2021)
+###### **Senior Project Manager (2018-2021)**
  <details>
   <summary><mark>Expand for more details</mark></summary>
 
@@ -57,7 +54,7 @@ Led eight teams of 120 faculty to educate 1,800 students meeting academic and or
   + Created a digital maintenance process using QR Codes, Google Sheets, SQL to collect, categorize and analyze data used to prioritize and process over 500 maintenance issues of $2M of resources reducing work order time by 25%.
   </details>
 
-###### Senior Training Project Manager (2016-2018)
+###### **Senior Training Project Manager (2016-2018)**
  <details>
   <summary><mark>Expand for more details</mark></summary>
 
@@ -67,7 +64,7 @@ Prepared schedules, risk management, resource management, project staffing, and 
   + Led change; spearheaded the implementation of new program changes: created teaching products for Project Managers to identify potential opportunities and managed expectations; resulted in zero time lost and seamless execution of a new program.
    </details>
 
-###### Senior IT Manager (2014-2016)
+###### **Senior IT Manager (2014-2016)**
 <details>
  <summary><mark>Expand for more details</mark></summary>
 
@@ -78,7 +75,7 @@ haul transmissions data center providing executives with secured voice, data, an
   + Identified potential risk exposures, recommended solutions, and implemented mitigations to meet compliance.
     </details>
 
-###### IT Operations Team Lead (2010-2014)
+###### **IT Operations Team Lead (2010-2014)**
 <details>
  <summary><mark>Expand for more details</mark></summary>
 
@@ -90,7 +87,7 @@ On-site team lead for 12 IT professionals covering a 24-hour shift in a technica
  + Trained 50 departments on proper COMSEC handling procedures, policies, and guidelines; passed 100% of inspections.
     </details>
 
-###### U.S. Army Recruiter (2007-2010)
+###### **U.S. Army Recruiter (2007-2010)**
 <details>
  <summary><mark>Expand for more details</mark></summary>
 
@@ -99,7 +96,7 @@ Coordinated marketing and prospecting strategies for lead-generation activities 
   + Maintained client relationship management (CRM) records successfully meeting imposed targets for hiring requirements without sacrificing integrity.
   </details>
 
-## `Specialized Education`
+## Specialized Education
 - Operational Contract Support (OCS)
 - Contracting Officer’s Representative (COR)
 - Common Faculty Development-Instructor Course (CFD-IC)
@@ -108,12 +105,27 @@ Coordinated marketing and prospecting strategies for lead-generation activities 
 - 5G for Everyone
 - Jira Fundamentals
 - General Amateur Radio License [Radio](/post/radio)
-## `Technical Competencies`
+## Technical Competencies
 - **Software**: Microsoft Office Suite 365 (Word, Excel, PowerPoint, Outlook, SharePoint), Remedy, CRM, IAM, MS Project
 - **Google Workspace**: Gmail, Calendar, Contacts, Meet & Chat
 - **Operating Systems**: Mac / Microsoft Windows / Basic Linux
 - **Networking**: Cisco Switches, Routers, Cisco Unified Call Manager, REDCOM Sigma, VMware, RoIP, RAN, Wireless
 - **Radios**: HF, VHF, UHF, and encryption devices Testing equipment: OTDR, VSWR, Multimeter, Power meter, Antenna analyzer, Ping, Traceroute
+
+---
+#
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
