@@ -2,7 +2,7 @@
 author: "Jean Burgos"
 title: "My Art Projects"
 date: "2023-01-07"
-description: "Lorem Ipsum Dolor Si Amet"
+description: "Here you will find some of my art projects"
 tags: ["Art", "Projects","Photoshop", "Illustrator", "Adobe"]
 categories: ["Art", "Projects"]
 hideMeta: true
@@ -10,7 +10,7 @@ searchHidden: true
 ShowBreadCrumbs: false
 ---
 #
-I have always enjoy doodling on the computer. Every now and then I create useful things. My main drawing tools are Adobe Photoshop and Illustrator.
+`I have always enjoy doodling on the computer. Every now and then I create useful things. My main drawing tools are Adobe Photoshop and Illustrator.` *Jean Burgos*
 
 <!--more-->
 
@@ -43,7 +43,7 @@ This logo was inspired by the Parks on the Air activity in amateur radio. This o
 
 
 
-The rest of this page will remain for reference purposes. 
+`The rest of this page will remain for reference purposes. `
 
 Lorem est tota propiore conpellat pectoribus de pectora summo. <!--more-->Redit teque digerit hominumque toris verebor lumina non cervice subde tollit usus habet Arctonque, furores quas nec ferunt. Quoque montibus nunc caluere tempus inhospita parcite confusaque translucet patri vestro qui optatis lumine cognoscere flos nubis! Fronde ipsamque patulos Dryopen deorum.
 
