@@ -1,6 +1,6 @@
 ---
 author: Hugo Authors
-title: Math Typesetting
+title: Template
 date: 2019-03-08
 description: A brief guide to setup KaTeX
 tags: ["math","markdown", "css", "html", "themes"]
