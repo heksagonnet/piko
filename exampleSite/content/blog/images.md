@@ -1,12 +1,12 @@
 ---
-author: "Hugo Authors"
+author: "Jean Burgos"
 title: "Resume"
 date: "2022-03-05"
 description: "My digital resume"
-tags: ["images","markdown", "css", "html", "themes"]
-categories: ["themes", "syntax"]
-ShowRelated: false
-showToc: false
+tags: ["resume","experience", "certifications"]
+categories: ["Resumes", "Experience", "Certifications"]
+ShowRelated: true
+showToc: true
 
 ---
 
