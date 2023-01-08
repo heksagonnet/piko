@@ -1,7 +1,7 @@
 ---
-author: "Hugo Authors"
+author: "Jean Burgos"
 title: "Emoji Support"
-date: "2019-03-05"
+date: "2023-01-07"
 description: "Guide to emoji usage in Hugo"
 tags: ["emoji","markdown", "css", "html", "themes"]
 categories: ["themes", "syntax"]

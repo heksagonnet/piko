@@ -88,18 +88,18 @@ params:
     # About Section    
     disableAboutSection: false
     aboutTitle: About
-    aboutDescription: Just something about me
+    aboutDescription: I hope that you enjoy this page as much as I enjoy learning about markdown, html, hugo, github and netlify.
     aboutImgUrl: "/uploads/jean.jpg"
-    aboutContent: In this area I plan to write a quick summary about myself linking my [resume] page. 
+    aboutContent: Transitioning Army Soldier with over 23 years of experience leading large and small teams. Managed IT Projects delivering telecommunications and IT capabilities to support customers in austere environments. Passionate about building technology to help customers turn ideas into reality. Privileged for the selection to participate in this exciting opportunity as a VMware Corporate Fellow. I hope that you enjoy this page as much as I enjoy learning about markdown, html, hugo, github and netlify.
     # Portfolio Section
     disablePortfolioSection: false
-    portfolioTitle: Portfolio
-    portfolioDescription: Some of my works
+    portfolioTitle: Project Portfolio 
+    portfolioDescription: This are will have some of my projects from work.  
     portfolio:
-    - imageUrl: /uploads/portfolio-1.webp
+    - imageUrl: /uploads/IMG_4737.jpg
       alt: # image alt for better SEO
       description: Portfolio One.
-      websiteUrl: #
+      websiteUrl: /project
     - imageUrl: /uploads/portfolio-2.webp
       alt: # image alt for better SEO
       description: Portfolio Two.
@@ -107,6 +107,10 @@ params:
     - imageUrl: /uploads/portfolio-3.webp
       alt: # image alt for better SEO
       description: Portfolio Three.
+      websiteUrl: #
+    - imageUrl: /uploads/portfolio-3.webp
+      alt: # image alt for better SEO
+      description: Portfolio Four.
       websiteUrl: #
   # Search Options (https://fusejs.io/)
   fuseOpts:
@@ -181,4 +185,3 @@ menus:
     title: Tags
     url: "/tags"
     weight: "30"
-    
