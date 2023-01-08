@@ -13,15 +13,21 @@ feature: true
 
 This post contains my resume in a web version as well as a [.pdf download](/uploads/JeanBurgosHoHDEC.pdf) version.
 
-# **Jean Burgos** ![](/uploads/jean.jpg)
+# ![](/blog/certifications/mypic.png) **Jean Burgos** 
+
+---
 ### INFORMATION TECHNOLOGY PROJECT MANAGER
 #### Summary
 IT Project Manager and US Army Veteran with 22+ years of experience in network engineering, cross-functional leadership, and project management. Managed budgets of 10M on average for the installation and maintenance of field WAN/LAN. Delivered the installation of fiber, copper, RAN, and wireless infrastructures using hybrid approaches in matrix organizations. Established trust and removed impediments supporting diverse teams of SMEs to meet project goals. Planned, designed, and implemented network modernization and telecommunications projects to provide voice, and data capabilities to the organization. Administrated access to Microsoft cloud resources. Passionate about radio and networking communications to empower customers to turn ideas into reality. Holds a Secret Security Clearance.
+
+---
 #### Education
 ![s](/uploads/grantham1.png)Master of Science, Information Technology | University of Arkansas Grantham
 ![s](/uploads/uiw.png) Bachelor of Science, Business Administration | University of Incarnate Word 
 
+---
 #### Certifications
+![](/blog/certifications/certificationsall.png)
 - Project Management Professional (PMP)
 - Security +
 - Network +
@@ -29,11 +35,10 @@ IT Project Manager and US Army Veteran with 22+ years of experience in network e
 - ITIL Foundation
 - AZ-900 Azure Fundamentals
 - Lean Six Sigma Green Belt (LSSGB)
-#### Professional Experience 
-### !["United States Army"](/uploads/army.png)   United States Army
 
 ---
-
+#### Professional Experience 
+### !["United States Army"](/uploads/army.png)   United States Army
 ###### **Senior Information Technology Project Manager (2021-Present)**
  <details>
    <summary><mark>Expand for more details</mark></summary>
@@ -97,6 +102,7 @@ Coordinated marketing and prospecting strategies for lead-generation activities 
   + Maintained client relationship management (CRM) records successfully meeting imposed targets for hiring requirements without sacrificing integrity.
   </details>
 
+---
 ## Specialized Education
 - Operational Contract Support (OCS)
 - Contracting Officer’s Representative (COR)
@@ -106,6 +112,8 @@ Coordinated marketing and prospecting strategies for lead-generation activities 
 - 5G for Everyone
 - Jira Fundamentals
 - General Amateur Radio License [Radio](/post/radio)
+
+---
 ## Technical Competencies
 - **Software**: Microsoft Office Suite 365 (Word, Excel, PowerPoint, Outlook, SharePoint), Remedy, CRM, IAM, MS Project
 - **Google Workspace**: Gmail, Calendar, Contacts, Meet & Chat
@@ -114,40 +122,3 @@ Coordinated marketing and prospecting strategies for lead-generation activities 
 - **Radios**: HF, VHF, UHF, and encryption devices Testing equipment: OTDR, VSWR, Multimeter, Power meter, Antenna analyzer, Ping, Traceroute
 
 ---
-#
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-To add images you can use the following syntax:
-```md
-![This where you put the alt information](/uploads/self.webp)
-```
-
-![This where you put the alt information](/uploads/self.webp)
-
-To add title, use the following syntax (`<figure>` element will be generated with `<figcaption>`):
-```md
-![This where you put the alt information](/uploads/self.webp "This is where you put the title")
-```
-
-![This where you put the alt information](/uploads/self.webp "This is where you put the title")
-
-Or from external sources:
-
-```md
-![This is where you put the alt](https://images.unsplash.com/photo-1520085601670-ee14aa5fa3e8 "This is the image title")
-```
-
-![This is where you put the alt](https://images.unsplash.com/photo-1520085601670-ee14aa5fa3e8 "This is the image title")
