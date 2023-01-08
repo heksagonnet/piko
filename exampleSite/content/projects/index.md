@@ -5,6 +5,7 @@ date: "2022-01-07"
 description: "A look at some of the projects that I have done in the military"
 ShowRelated: true
 showToc: true
+thumbnail: "/blog/certifications/cert.png"
 ---
 ![](/blog/certifications/pmp.png)
 
