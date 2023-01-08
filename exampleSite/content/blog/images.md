@@ -8,6 +8,7 @@ categories: ["themes", "syntax"]
 ShowRelated: false
 showToc: false
 ShowBreadCrumbs: false
+feature: true
 ---
 
 This post contains my resume in a web version as well as a [.pdf download](/uploads/JeanBurgosHoHDEC.pdf) version.

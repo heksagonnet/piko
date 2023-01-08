@@ -1,10 +1,10 @@
 ---
 author: "Jean Burgos"
-title: "Emoji Support"
-date: "2023-01-07"
+title: "Emoji page template"
+date: "2022-01-07"
 description: "Guide to emoji usage in Hugo"
-tags: ["emoji","markdown", "css", "html", "themes"]
-categories: ["themes", "syntax"]
+tags: ["","", "", "", ""]
+categories: ["", ""]
 ShowRelated: false
 showToc: false
 ShowBreadCrumbs: false

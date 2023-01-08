@@ -99,19 +99,19 @@ params:
     - imageUrl: /uploads/IMG_4737.jpg
       alt: # image alt for better SEO
       description: Portfolio One.
-      websiteUrl: /project
+      websiteUrl: /projects/#project-one
     - imageUrl: /uploads/portfolio-2.webp
       alt: # image alt for better SEO
       description: Portfolio Two.
-      websiteUrl: #
+      websiteUrl: /projects/#project-two
     - imageUrl: /uploads/portfolio-3.webp
       alt: # image alt for better SEO
       description: Portfolio Three.
-      websiteUrl: #
+      websiteUrl: /projects/#project-three
     - imageUrl: /uploads/portfolio-3.webp
       alt: # image alt for better SEO
       description: Portfolio Four.
-      websiteUrl: #
+      websiteUrl: # /projects/#project-four
   # Search Options (https://fusejs.io/)
   fuseOpts:
     isCaseSensitive: false
@@ -172,6 +172,11 @@ menus:
     pre: home
     url: "../.."
     weight: "10"
+  - name: Project
+    title: Project
+    pre: briefcase
+    url: "/projects"
+    weight: "90"
   search: # Search page's quick links
   - name: Categories
     title: Categories
