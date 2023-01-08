@@ -10,7 +10,7 @@ showToc: false
 ShowBreadCrumbs: false
 ---
 
-This post contains my resume in a web version as well as a [pdf download](/post/Resume/JeanBurgosHoHDEC.pdf) version.
+This post contains my resume in a web version as well as a [.pdf download](/uploads/JeanBurgosHoHDEC.pdf) version.
 
 # <center>**Jean Burgos**
 ## <center>INFORMATION TECHNOLOGY PROJECT MANAGER

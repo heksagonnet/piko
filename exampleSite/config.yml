@@ -158,15 +158,15 @@ menus:
     pre: linkedin
     url: https://www.linkedin.com/in/jean-jan-burgos/
     weight: "70" 
-  - name: Rasume
+  - name: Resume
     title: Resume
     pre: briefcase
-    url: ""
+    url: "/blog/images/"
     weight: "80" 
   - name: Home
     title: Home
     pre: home
-    url: ""
+    url: "../.."
     weight: "10"
   search: # Search page's quick links
   - name: Categories
