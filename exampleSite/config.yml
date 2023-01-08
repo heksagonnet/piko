@@ -165,7 +165,7 @@ menus:
   - name: Resume
     title: Resume
     pre: briefcase
-    url: "/blog/images/"
+    url: "/blog/images"
     weight: "80" 
   - name: Home
     title: Home
