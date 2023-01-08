@@ -45,7 +45,7 @@ params:
   label:
     title: _Jean Projects_
     text: Welcome to Jean's Projects
-    icon: /uploads/zap.svg
+    icon: /uploads/cloud.png
     iconHeight: "35"
     iconWIdth: "35"
   comments: true
@@ -62,11 +62,11 @@ params:
   contactFormAction: # Get link from https://formsubmit.io or https://fabform.io
   assets:
     disableFingerprinting: false
-    favicon: /uploads/zap.svg
-    favicon16x16: /uploads/zap.svg
-    favicon32x32: /uploads/zap.svg
-    apple_touch_icon: /uploads/zap.svg
-    safari_pinned_tab: /uploads/zap.svg
+    favicon: /uploads/cloud.png
+    favicon16x16: /uploads/cloud.png
+    favicon32x32: /uploads/cloud.png
+    apple_touch_icon: /uploads/cloud.png
+    safari_pinned_tab: /uploads/cloud.png
   ShowReadingTime: true
   ShowBreadCrumbs: true
   homepage:

@@ -1,14 +1,45 @@
 ---
-author: "Hugo Authors"
-title: "Placeholder Text"
-date: "2019-03-09"
+author: "Jean Burgos"
+title: "My Art Projects"
+date: "2023-01-07"
 description: "Lorem Ipsum Dolor Si Amet"
-tags: ["markdown", "text","css", "html", "themes"]
-categories: ["themes", "syntax"]
+tags: ["Art", "Projects","Photoshop", "Illustrator", "Adobe"]
+categories: ["Art", "Projects"]
 hideMeta: true
 searchHidden: true
 ShowBreadCrumbs: false
 ---
+#
+I have always enjoy doodling on the computer. Every now and then I create useful things. My main drawing tools are Adobe Photoshop and Illustrator.
+
+<!--more-->
+
+## My Art
+!["Black Knight Facebook Banner"](/uploads/drawing/banner.jpg) Black Knight Facebook Banner
+![Iron Diamond Facebook Banner](/uploads/drawing/irond.png) Iron Diamond Facebook Banner
+![Lead from the Front Facebook Banner](/uploads/drawing/lead.jpg) Lead from the Front Facebook Banner
+![NCO Support Forum Facebook Banner](/uploads/drawing/nco.jpg) NCO Support Forum Facebook Banner
+![Senior Leaders Facebook Banner](/uploads/drawing/senior.jpg) Senior Leaders Facebook Banner
+![ACFT Community Facebook Banner](/uploads/drawing/acft.jpg) ACFT Community Facebook Banner
+![Signal Leader Facebook Banner](/uploads/drawing/signalleader.jpg) Signal Leader Facebook Banner
+
+![Black Knights Seal](/uploads/drawing/matt.png) Black Knights Seal ![Signal Crest](/uploads/drawing/signal.png) Signal Cres ![15th Signal Brigade Patch](/uploads/drawing/15.png) 15th Signal Brigade Patch ![Bravo Co Black Knights Shirt Logo](/uploads/drawing/sealvector.png) Bravo Co Black Knights Shirt Logo ![Digitized art from a hand made drawing from one of my soldiers](/uploads/drawing/bk.png) 
+###### Digitized art from a hand made drawing from one of my soldiers
+
+## Amateur Radio Art
+![Military Amateur Radio Logo](/uploads/drawing/radioman.png) 
+###### Military Amateur Radio Logo
+![POTA Activator](/uploads/drawing/activator.png) 
+###### POTA Activator
+![POTA Hunter](/uploads/drawing/hunter.png) 
+###### POTA Hunter
+
+
+## End of my art
+
+
+
+The rest of this page will remain for reference purposes. 
 
 Lorem est tota propiore conpellat pectoribus de pectora summo. <!--more-->Redit teque digerit hominumque toris verebor lumina non cervice subde tollit usus habet Arctonque, furores quas nec ferunt. Quoque montibus nunc caluere tempus inhospita parcite confusaque translucet patri vestro qui optatis lumine cognoscere flos nubis! Fronde ipsamque patulos Dryopen deorum.
 
