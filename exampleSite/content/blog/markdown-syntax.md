@@ -13,6 +13,7 @@ TocOpen: false
 [Networking](/post/networking/) |  [Virtualization](/post/virtualization) |  [Radio](/post/radio)
 
 ![Computer Desk](/uploads/desk.jpg)
+["Home?"]()
 
 My home lab consist of:
   + ## DIY Computer build

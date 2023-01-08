@@ -1,7 +1,7 @@
 ---
 baseURL: https://vocal-rabanadas-6f33e3.netlify.app
 languageCode: en-us
-title: Jean Projects
+title: Home
 theme: piko
 paginate: "9"
 copyright: A template by [Heksagon](https://www.heksagon.net "Your most friendly developer")
@@ -163,6 +163,11 @@ menus:
     pre: briefcase
     url: ""
     weight: "80" 
+  - name: Home
+    title: Home
+    pre: home
+    url: ""
+    weight: "10"
   search: # Search page's quick links
   - name: Categories
     title: Categories
