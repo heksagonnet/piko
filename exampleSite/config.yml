@@ -98,12 +98,12 @@ params:
     portfolio:
     - imageUrl: /uploads/IMG_4737.jpg
       alt: # image alt for better SEO
-      description: Portfolio One.
+      description: Command Post Field Communications Infrastructure Project
       websiteUrl: /projects/#project-one
     - imageUrl: /uploads/portfolio-2.webp
       alt: # image alt for better SEO
-      description: Portfolio Two.
-      websiteUrl: /projects/#project-two
+      description: Senior Drill Sergeant in Basic Combat Training
+      websiteUrl: /projects/project2
     - imageUrl: /uploads/portfolio-3.webp
       alt: # image alt for better SEO
       description: Portfolio Three.
@@ -150,7 +150,7 @@ menus:
   - name: Github
     title: Github
     pre: github
-    url: https://github.com/heksagonnet/piko 
+    url: https://github.com/jeanburgos
     weight: "50"
   - name: Youtube
     title: Youtube
