@@ -100,11 +100,11 @@ params:
       alt: # image alt for better SEO
       description: Command Post Field Communications Infrastructure Project
       websiteUrl: /projects/#project-one
-    - imageUrl: /uploads/portfolio-2.webp
+    - imageUrl: /projects/project2/IMG_1135.JPG 
       alt: # image alt for better SEO
       description: Senior Drill Sergeant in Basic Combat Training
       websiteUrl: /projects/project2
-    - imageUrl: /uploads/portfolio-3.webp
+    - imageUrl: /uploads/portfolio-2.webp
       alt: # image alt for better SEO
       description: Portfolio Three.
       websiteUrl: /projects/#project-three
