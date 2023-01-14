@@ -106,7 +106,7 @@ params:
       websiteUrl: /project2
     - imageUrl: /project3/1sg2.PNG
       alt: # image alt for better SEO
-      description: Senior Project Manager as a First Sergeant Duties
+      description: Senior Project Manager as a First Sergeant
       websiteUrl: /project3
     - imageUrl: /uploads/portfolio-3.webp
       alt: # image alt for better SEO

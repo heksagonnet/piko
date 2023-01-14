@@ -2,7 +2,7 @@
 author: "Jean Burgos"
 title: "First Sergeant"
 date: "2022-01-07"
-description: "Senior Project Manager as a First Sergeant Duties"
+description: "Senior Project Manager as a First Sergeant"
 ShowRelated: true
 showToc: true
 

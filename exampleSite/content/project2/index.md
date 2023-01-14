@@ -11,6 +11,7 @@ showToc: true
 *`Jean Burgos PMP®`*
 ![](./IMG_0282(1).JPG)
 # Drill-Sergeant
+![](./structure.png)
 # Duty Description
 The Senior Drill Sergeant (Senior Project/ Program Manager) in a Basic Combat Training Company conducts training for at least 60 to 220 Initial Entry Soldiers in a 10-week cycle. The Senior Drill Sergeant is responsible for the accountability, professional development, supervision, and evaluation of three Drill Sergeants (Project Managers) under his charge and mentors other 9 junior Drill Sergeants from separate groups.
 
