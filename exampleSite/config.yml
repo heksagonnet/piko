@@ -104,10 +104,10 @@ params:
       alt: # image alt for better SEO
       description: Senior Drill Sergeant in Basic Combat Training
       websiteUrl: /project2
-    - imageUrl: /uploads/portfolio-2.webp
+    - imageUrl: /project3/1sg2.PNG
       alt: # image alt for better SEO
-      description: Portfolio Three.
-      websiteUrl: /projects/#project-three
+      description: Senior Project Manager as a First Sergeant Duties
+      websiteUrl: /project3
     - imageUrl: /uploads/portfolio-3.webp
       alt: # image alt for better SEO
       description: Portfolio Four.
