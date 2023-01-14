@@ -1,7 +1,7 @@
 ---
 title: Blog
-image: "/uploads/portfolio-2.webp"
-description: My blog's description here1
+image: "/uploads/bco.jpg"
+description: Here you will find some of my hobbies. The picture in the background are 350 Satellite Maintainers (25S) Soldiers who I proudly led next to Rasheena Lee.
+
 
 ---
-# This is a test comeon

@@ -3,8 +3,8 @@ author: "Jean Burgos"
 title: "Resume"
 date: "2022-03-05"
 description: "My digital resume"
-tags: ["resume","experience", "certifications"]
-categories: ["Resumes", "Experience", "Certifications"]
+tags: ["resume","experience", "certifications", "PMP"]
+categories: ["Resumes", "Experience", "certifications"]
 ShowRelated: true
 showToc: true
 

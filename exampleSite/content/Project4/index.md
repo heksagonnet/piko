@@ -5,7 +5,7 @@ date: "2022-01-07"
 description: "Signal Platoon Sergeant"
 ShowRelated: true
 showToc: true
-
+tags: ["Project","Communications", "Systems", "Infrastructure", "PMP"]
 ---
 ![](/blog/certifications/pmp.png)
 *`Jean Burgos PMP®`*
@@ -14,7 +14,7 @@ showToc: true
 
 ![](pmitriangle.png)
 
-A [Signal Platoon Sergeant (Project Manager)](../blog/images.md) leads a group of 30 to 60 technical soldiers with various specialties, including network engineering, installation team, satellite transmissions, radio backbone transmissions, and system engineers. 
+A [Signal Platoon Sergeant (Project Manager)](../Project4) leads a group of 30 to 60 technical soldiers with various specialties, including network engineering, installation team, satellite transmissions, radio backbone transmissions, and system engineers. 
 
 The primary goal of this team is to provide deployable voice, data, and video communications to the Division Commander and the executive staff in the area of responsibility. 
 
@@ -64,3 +64,9 @@ The primary goal of this team is to provide deployable voice, data, and video co
 - Coordinate logistics to return vehicles, equipment, and personnel to the home station.
 
 ![](team.jpg "Tactical Communications Team 101st Airborne Division")
+
+### Other Projects
+- [Command Post Field Communications Infrastructure Project](/projects)
+- [Basic Combat Training Projects](/project2)
+- [Satellite Technicians Course Project](/project3)
+- [Deployable Communications Infrastructure](/project4)

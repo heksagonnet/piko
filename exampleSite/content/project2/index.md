@@ -1,11 +1,11 @@
 ---
 author: "Jean Burgos"
-title: "Senior Drill Sergeant in Basic Combat Training"
+title: "Basic Combat Training Course Project Manager"
 date: "2022-01-07"
-description: "Drill Sergeant Duties as a Project Manager"
+description: "Project Manager as a Senior Drill Sergeant"
 ShowRelated: true
 showToc: true
-
+tags: ["Project", "PMP", "Training", "Functional Leadership"]
 ---
 ![](/blog/certifications/pmp.png)
 *`Jean Burgos PMP®`*
@@ -59,3 +59,9 @@ The Senior Drill Sergeant (Senior Project/ Program Manager) in a Basic Combat Tr
 - Reset facilities in preparation for future projects.
 
 ![](./IMG_0543.JPG "Conducting site reconnaissance for training") ![](./IMG_0637.JPG "Basic Training Graduation") ![](./IMG_0967.PNG "Urban Operation Training")
+
+### Other Projects
+- [Command Post Field Communications Infrastructure Project](/projects)
+- [Basic Combat Training Projects](/project2)
+- [Satellite Technicians Course Project](/project3)
+- [Deployable Communications Infrastructure](/project4)

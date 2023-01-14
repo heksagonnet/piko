@@ -1,11 +1,11 @@
 ---
 author: "Jean Burgos"
-title: "First Sergeant"
+title: "Senior Principal Project Manager"
 date: "2022-01-07"
-description: "First Sergeant Duties as a Senior Project Manager"
+description: "Senior Project Manager as a First Sergeant"
 ShowRelated: true
 showToc: true
-
+tags: ["Project", "PMP", "Training", "Functional Leadership"]
 ---
 ![](/blog/certifications/pmp.png)
 *`Jean Burgos PMP®`*
@@ -57,3 +57,8 @@ In this area I will describe some of the projects conducted as a 1SG.
 # Administrative management
 
 
+### Other Projects
+- [Command Post Field Communications Infrastructure Project](/projects)
+- [Basic Combat Training Projects](/project2)
+- [Satellite Technicians Course Project](/project3)
+- [Deployable Communications Infrastructure](/project4)

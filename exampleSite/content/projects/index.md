@@ -1,11 +1,11 @@
 ---
 author: "Jean Burgos"
-title: "Project Management"
+title: "Project Management as a Master Sergeant"
 date: "2022-01-07"
-description: "Command Post Field Communications Infrastructure Project"
+description: "Command Post Field Communications Infrastructure Project with 10th Combat Aviation Brigade, Fort Drum, NY (FLY TO GLORY)"
 ShowRelated: true
 showToc: true
-
+tags: ["Project","Communications", "Systems", "Infrastructure", "PMP"]
 ---
 ![](/blog/certifications/pmp.png)
 
@@ -105,3 +105,9 @@ Through the life of these projects there is no doubt that we visit the **10 know
 
 These type of projects require coordinations with multiple functional areas within the organization as well as externally to subordinate, and higher (vertical) and peer (horizontal) organizations. Command Post Field Communications Infrastructure Projects are executed four to five times a year to support organizatinals tactical and strategic goals. These projects can be done locally, or deployed to remote locations statewide or overseas in a similar approach. 
 ![](/projects/IMG_4891.jpg)![](/projects/IMG_5135.jpg)![](/projects/IMG_4955.jpg)![](/projects/IMG_5183(1).jpg)
+
+### Other Projects
+- [Command Post Field Communications Infrastructure Project](/projects)
+- [Basic Combat Training Projects](/project2)
+- [Satellite Technicians Course Project](/project3)
+- [Deployable Communications Infrastructure](/project4)
