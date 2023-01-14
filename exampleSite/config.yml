@@ -108,10 +108,10 @@ params:
       alt: # image alt for better SEO
       description: Senior Project Manager as a First Sergeant
       websiteUrl: /project3
-    - imageUrl: /uploads/portfolio-3.webp
+    - imageUrl: /project4/team.jpg
       alt: # image alt for better SEO
-      description: Portfolio Four.
-      websiteUrl: # /projects/#project-four
+      description: Signal Platoon Sergeant
+      websiteUrl: /project4
   # Search Options (https://fusejs.io/)
   fuseOpts:
     isCaseSensitive: false
