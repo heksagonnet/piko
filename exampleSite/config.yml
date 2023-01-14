@@ -94,7 +94,7 @@ params:
     # Portfolio Section
     disablePortfolioSection: false
     portfolioTitle: Project Portfolio 
-    portfolioDescription: This are will have some of my projects from work.  
+    portfolioDescription: Check out how my past military assigments are relevat to project management.  
     portfolio:
     - imageUrl: /uploads/IMG_4737.jpg
       alt: # image alt for better SEO
@@ -102,15 +102,15 @@ params:
       websiteUrl: /projects/#project-one
     - imageUrl: /project2/IMG_1135.JPG 
       alt: # image alt for better SEO
-      description: Senior Drill Sergeant in Basic Combat Training
+      description: Basic Combat Training Projects
       websiteUrl: /project2
     - imageUrl: /project3/1sg2.PNG
       alt: # image alt for better SEO
-      description: Senior Project Manager as a First Sergeant
+      description: Satellite Technicians Course Project
       websiteUrl: /project3
     - imageUrl: /project4/team.jpg
       alt: # image alt for better SEO
-      description: Signal Platoon Sergeant
+      description: Deployable Communications Infrastructure
       websiteUrl: /project4
   # Search Options (https://fusejs.io/)
   fuseOpts:
