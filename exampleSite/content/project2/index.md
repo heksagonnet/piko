@@ -19,7 +19,7 @@ showToc: false
 The Senior Drill Sergeant (Senior Project/ Program Manager) in a Basic Combat Training Company conducts training for at least 60 to 220 Initial Entry Soldiers in a 10-week cycle. The Senior Drill Sergeant is responsible for the accountability, professional development, supervision, and evaluation of three Drill Sergeants (Project Managers) under his charge and mentors other 9 junior Drill Sergeants from separate groups.
 
 # Tasks
-- Forecasts, coordinates, plan and submit land reservation 6 weeks out from day of execution to access training areas tp conduct training
+- Forecasts, coordinates, plan and submit land reservation 6 weeks out from day of execution to access training areas to conduct training
 - Forecasts, coordinates, plan and submit ammunition request 6 weeks for 220 trainees during practice, and qualifications during assigned range weeks
 - Forecast, coordinates, plan and submit transportation request for 220 trainees during 10 week cycle
 - Forecast, coordinates, plan and request meals for 220 trainees during 10 week cycle
