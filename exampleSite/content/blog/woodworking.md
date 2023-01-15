@@ -20,3 +20,8 @@ My father was a woodworker for many years. He is an incredible artist when it co
 ![](/blog/Woodworking/IMG_3750(1).jpg "Daughter's Book case")
 ![](/blog/Woodworking/IMG_3789.jpg "Daughter's Book case")
 ![](/blog/Woodworking/IMG_5624(1).jpg "My Computer Desk")
+
+![](/blog/Woodworking/IMG_1061.JPG "DIY Bottle Opener")
+![](/blog/Woodworking/IMG_0935.jpg "Bed")
+![](/blog/Woodworking/IMG_0895.JPG "Coin Rack")
+![](/blog/Woodworking/IMG_1965.JPG "Coin Rack")
