@@ -13,6 +13,7 @@ tags: ["Project","Communications", "Systems", "Infrastructure", "PMP"]
 
 *`Jean Burgos PMP®`*
 
+![](/projects/IMG_4891.jpg)
 ## Is it really Project Management?
 During my transition from the military I encounter a lot of opinions questioning whether or not service members are Project Managers or now. Although every organization's idea of a project manager differs I like to think that service members in fact serve in a capacity similiar to project managers in the industry. 
 
@@ -104,7 +105,8 @@ Through the life of these projects there is no doubt that we visit the **10 know
 |Project Stakeholder Management|
 
 These type of projects require coordinations with multiple functional areas within the organization as well as externally to subordinate, and higher (vertical) and peer (horizontal) organizations. Command Post Field Communications Infrastructure Projects are executed four to five times a year to support organizatinals tactical and strategic goals. These projects can be done locally, or deployed to remote locations statewide or overseas in a similar approach. 
-![](/projects/IMG_4891.jpg)![](/projects/IMG_5135.jpg)![](/projects/IMG_4955.jpg)![](/projects/IMG_5183(1).jpg)
+
+![](/projects/IMG_5135.jpg "10th CAB Tactical Command Post")![](/projects/IMG_4955.jpg)![](/projects/IMG_5183(1).jpg)
 
 ### Other Projects
 - [Command Post Field Communications Infrastructure Project](/projects)

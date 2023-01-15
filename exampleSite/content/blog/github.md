@@ -2,7 +2,7 @@
 author: Jean Burgo
 title: Github
 date: 2019-03-08
-description: Github Explore
+description: My Github Exploration
 tags: ["markdown","git", "Hugo", "html", "themes"]
 categories: ["themes", "syntax"]
 math: false

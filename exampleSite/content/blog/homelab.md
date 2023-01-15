@@ -2,7 +2,7 @@
 author: "Jean Burgos"
 title: "Home Lab"
 date: "2019-03-11"
-description: "In this page I plan to describe what my homelab looks like and how I have used it to assist in my development and pursue of certifications."
+description: "I describe what my homelab looks like and how I have used it to assist in my development and pursue of certifications."
 tags: ["Home_Lab", "Projects", "Networking", "Virtualization"]
 categories: ["Home_Lab", "Projects", "Networking"]
 ShowToc: true
