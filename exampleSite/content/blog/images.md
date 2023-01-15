@@ -27,12 +27,12 @@ IT Project Manager and US Army Veteran with 22+ years of experience in network e
 ---
 #### Certifications
 ![](/blog/certifications/certificationsall.png)
-- Project Management Professional (PMP)
-- Security +
-- Network +
-- AWS Cloud Practitioner
-- ITIL Foundation
-- AZ-900 Azure Fundamentals
+- [Project Management Professional (PMP)](/blog/certifications/#project-management-professional-pmp)
+- [Security +](/blog/certifications/#security-plus)
+- [Network +](/blog/certifications/#network-plus)
+- [AWS Cloud Practitioner](/blog/certifications/#aws-cloud-practitioner)
+- [ITIL Foundation](/blog/certifications/#itil-v4)
+- [AZ-900 Azure Fundamentals](/blog/certifications/#azure-fundamentals-az-900)
 - Lean Six Sigma Green Belt (LSSGB)
 
 ---

@@ -2,7 +2,7 @@
 author: Hugo Authors
 title: Virtualization
 date: 2019-03-08
-description: Documenting my virtualization lab at home
+description: Virtualization lab coming soon
 tags: ["virtualization","networking", "HomeLab", "VMware", "ESXi"]
 categories: ["virtualization", "HomeLab"]
 math: true

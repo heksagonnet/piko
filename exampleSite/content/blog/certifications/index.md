@@ -8,7 +8,9 @@ showToc: false
 category: ["Resume", "Certifications"]
 tags: ["Certifications","Resume", "PMP", "Security+", "Network+"]
 ---
-![](/blog/certifications/pmp.png) [Project Management Professional (PMP)](https://www.pmi.org/certifications/project-management-pmp)
+#
+### Project Management Professional (PMP)
+![](/blog/certifications/pmp.png) [](https://www.pmi.org/certifications/project-management-pmp)
 #### Preparation
 My preparation for the PMP was extensive. I used the following sources:
   - [PMProLean 5 day boot camp](https://www.pm-prolearn.com/certification-courses)
@@ -22,7 +24,8 @@ The PMP exam is without a doubt one of the hardest tests I have ever taken. This
 #### Applicability
 Everything that I have learned in this journey is critial in my career as I plan to pursue an IT Project Management career beyond the military. 
 
-![](/blog/certifications/sec.png) [Security Plus](https://www.comptia.org/certifications/security)
+### Security Plus
+![](/blog/certifications/sec.png) [](https://www.comptia.org/certifications/security)
 #### Preparation
 My first attempt at the CompTia Security+ was a failure by only a few points. I did not prepare well as I thought my IT experience was sufficient to pass. That was a humbling experience. For my second attempt, I dedicated a great deal of time to preparing. 
 - I use Jason Dion's CompTIA Security+(SY0-501) course and the associated practice exams to prepare. 
@@ -43,7 +46,8 @@ They were not easy, but with enough preparation I was able to score fairly decen
 #### Applicability
 The knowledge in this exam is very relevant to everything else that surrounds IT, cloud or any other tech-related subject. Very useful.
 
-![](/blog/certifications/networkplus.png) [Network Plus](https://www.comptia.org/certifications/network)
+### Network Plus
+![](/blog/certifications/networkplus.png) [](https://www.comptia.org/certifications/network)
 #### Preparation
 I used Jason Dion's CompTIA Network+ (N10-008) Full Course & Practice Exam to prepare for this exam. 
 #### What did I learn during this journey 
@@ -53,7 +57,8 @@ I hate taking tests regardless of how well prepared I think I am. But this test 
 #### Applicability
 As mentioned before, the content of this certification is not ideal for a network engineer.
 
-![](/blog/certifications/itil.png) [ITIL V4](https://www.axelos.com/certifications/itil-service-management/)
+### ITIL V4
+![](/blog/certifications/itil.png) [](https://www.axelos.com/certifications/itil-service-management/)
 #### Preparation
 I used the [ITPRO ITIL Course](https://www.itpro.tv/courses/itil/) to prepare for this exam. 
 #### What did I learn during this journey 
@@ -63,7 +68,8 @@ The [ITIL](https://www.axelos.com/certifications/itil-service-management/) exam 
 #### Applicability
 The content of this certification is very relevant to a solid IT Service Management plan about customer focus and process improvement.
 
-![](/blog/certifications/aws.png) [AWS Cloud Practitioner](https://aws.amazon.com/certification/certified-cloud-practitioner/)
+### AWS Cloud Practitioner
+![](/blog/certifications/aws.png) [](https://aws.amazon.com/certification/certified-cloud-practitioner/)
 #### Preparation
 - [AWS Cloud Practitioner Training](https://aws.amazon.com/training/learn-about/cloud-practitioner/) 
 - [AWS Cloud Quest Game](https://aws.amazon.com/training/digital/aws-industry-quest/)
@@ -74,7 +80,8 @@ The exam experience was prety straight forward. AWS training does a good job a p
 #### Applicability
 The content learned during the training and the game have been parramount in my understanding of cloud services. I was able to create a few test projects that gave me a good idea of what the platform can do. 
 
-![](/blog/certifications/az900.png) [Azure Fundamentals AZ-900](https://learn.microsoft.com/en-us/certifications/exams/az-900)
+### Azure Fundamentals AZ-900
+![](/blog/certifications/az900.png) [](https://learn.microsoft.com/en-us/certifications/exams/az-900)
 #### Preparation
 I  will never turn down a free opportunity for training. I was offered a free attendance to a Netcom Learning AZ-900 course. Between the course and some of the materials provided in the course, it was sufficient to pass the exam.  
 #### What did I learn during this journey 
@@ -84,7 +91,8 @@ The exam was pretty straight forward. The test is not too hard, and just wants t
 #### Applicability
 Although I feel more confortable with the AWS platform, Azure is not a bad environment to use. I feed the course does a great job of making sure that the student understands the benefits of a cloud environment.
 
-![](/blog/certifications/radios.png) KD2YAE [Amateur General Radio License](https://www.fcc.gov/wireless/bureau-divisions/mobility-division/amateur-radio-service)
+### Amateur General Radio License
+![](/blog/certifications/radios.png) KD2YAE [](https://www.fcc.gov/wireless/bureau-divisions/mobility-division/amateur-radio-service)
 #### Preparation
 There are many website that can help you prepare for the amature radio license. [Hamexam.org](https://hamexam.org/) There is a large pool of questions that could potentially be selected for the 30-question exam.
 #### What did I learn during this journey 
