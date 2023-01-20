@@ -39,6 +39,7 @@ My home lab consist of:
     - [Cisco 3750 Switch PoE](https://www.cisco.com/c/en/us/support/switches/catalyst-3750-series-switches/series.html)
     - [Cisco 2950 Switch](https://www.cisco.com/web/ANZ/cpp/refguide/hview/switch/2950.html)
     - [Cisco Air-CAP36020I Access Points with 5 GHZ radio (1x Autonomous 1x Thin client)](https://www.cisco.com/c/en/us/products/collateral/wireless/aironet-3600-series/data_sheet_c78-686782.html)
+![](/blog/Virtualization/network.jpeg)
 #
   + ## Server
     - [Dell Poweredge R430](https://www.dell.com/en-us/shop/cty/pdp/spd/poweredge-r430)  
