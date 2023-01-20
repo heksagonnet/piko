@@ -4,7 +4,7 @@ languageCode: en-us
 title: Home
 theme: piko
 paginate: "9"
-copyright: A template by [Heksagon](https://www.heksagon.net "Your most friendly developer")
+copyright: Thank you to [Heksagon](https://www.heksagon.net "Your most friendly developer") for this awesome template.
 googleAnalytics: G-TKJP5MBRWB
 enableRobotsTXT: true
 buildDrafts: false
@@ -74,7 +74,7 @@ params:
     disableHeroSection: false
     heroUpperTitle: 
     heroTitle: Jean's Projects
-    heroDescription: A place to share my creativity and my learning journey with the world. 
+    heroDescription: A place to share my creativity and my learning journey with the world. Below you will find a bunch of my blog posts, and further down, you will find some of my past Project Management roles. Reach out if you have any questions. I welcome the discussion. You can use the contact form above or just drop a comment below. 
     heroCTAPrimaryText: Posts
     heroCTAPrimaryUrl: "/blog/"
     heroCTASecondaryText: Contact Me
