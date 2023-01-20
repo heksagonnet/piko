@@ -6,6 +6,7 @@ description: Virtualization lab coming soon
 tags: ["virtualization","networking", "HomeLab", "VMware", "ESXi"]
 categories: ["virtualization", "HomeLab"]
 math: true
+ShowToc: true
 ShowBreadCrumbs: false
 draft: false
 ---
@@ -31,9 +32,31 @@ Being in the military and working with our equipment my experience with virtuali
 
 I used VMware Workstation in my computer at home to create a learning lab. This lab allowed me to have many more repetitions with the software allowing me to create, destroy or configure it for many uses. This helped my build my proficiency with it. In addition to, I was able to play around with some Linux distributions in preparation for my CompTIA Security Plus certification. I used Kali Linux to become familiar with some of the tools of the trade. Although not a requirement for the test, it game me a much better undertanding of some passive vs active attacks. Darril Gibson CompTIA Security+ Get Certified Get Ahead: SY0-601 Study Guide has great labs. 
 
-### Unable to run virtualization software on my desktop
+## Unable to run virtualization software on my desktop
 The first time I attempted to run VMware Workstation on my computer, I was presented with an error displaying that virtualization was not turned-on on my computer. 
 
-![](./Virtualization/AMD-V%20disabled.png)
+![](/blog/Virtualization/AMD-V%20disabled.png)
+I was able to turn this feature of my MSI B550 motherboard in the bios.
+![](/blog/Virtualization/IMG_6104.JPEG)
+Select Over Clocking or (OC) and Advanced CPU Configuration
+![](/blog/Virtualization/IMG_6105.JPEG)
+Select SVM form disable to enable.
+![](/blog/Virtualization/IMG_6106.JPEG)
+Save the changes.
+![](/blog/Virtualization/IMG_6107.JPEG)
 
-As an Amateur Radio Operator I want to be able to analyze the current signal propagation. There are tools like VOACAP that allow for some calculations but there is a program called Ham Clock. This useful tool can gather current solar conditions and many other parameters to provide a fairly accurate prediction of successful contact based on geografical location, time of day and frequencies. The problem is that I don't have a Rasberrypie to run it. I had the idea to try running it on my VMware Workstation. I installed Linux Debian distro. I was then able to run Raspberry Pi Desktop to then launch Ham Clock. :Smile: 
+Linux Debian runs without any issues. 
+![](/blog/Virtualization/rasberrypie.png)
+[RaspberryPI OS](https://www.raspberrypi.com/documentation/computers/os.html) runs on top of Debian without issues.
+
+## HamClock
+![](/blog/Virtualization/hamclock.png)
+![](/blog/Virtualization/hamclock1.png)
+
+
+As an Amateur Radio Operator I want to be able to analyze the current signal propagation. There are tools like VOACAP that allow for some calculations but there is a program called [Ham Clock](https://www.clearskyinstitute.com/ham/HamClock/). This useful tool can gather current solar conditions and many other parameters to provide a fairly accurate prediction of successful contact based on geografical location, time of day and frequencies. The problem is that I don't have a Rasberrypie to run it. I had the idea to try running it on my VMware Workstation. I installed Linux Debian distro. I was then able to run Raspberry Pi Desktop to then launch Ham Clock. :smiley: 
+
+## ESXi and vCenter
+I have installed ESXi Type II on Workstation and a Type I on my Dell R430 server. With a much stronger setup I am not able to install vSphere vCenter to manage not only the ESXi on my R430 server but also the ESXi running on my computer as part of the same cluster. The installation of vCenter was a learning process. Initially I was receiving an error during stage one because I did not assign enough memory to appliance. The second time I ran into another issue, this type on phase two of the installation because I did not have a DNS or a Domain Controller set up. After all of that the installation was finally done. Then I realized that vCenter is resource intensive and it was not a good idea to run it from my computer along with other VMs. 
+![](/blog/Virtualization/esxi.png)
+This set up has been tremendous help to get some real live hands on experience. VMware provides free Hands on Lab, but I feel like the physcal gear was necessary for my to see all the parts come together. 
