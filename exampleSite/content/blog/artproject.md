@@ -1,7 +1,7 @@
 ---
 author: "Jean Burgos"
 title: "My Art Projects"
-date: "2023-01-07"
+date: "2023-01-18"
 description: "Some of my digital art projects"
 tags: ["Art", "Projects","Photoshop", "Illustrator", "Adobe"]
 categories: ["Art", "Projects"]

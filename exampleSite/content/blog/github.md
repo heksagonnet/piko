@@ -1,7 +1,7 @@
 ---
 author: Jean Burgo
 title: Github
-date: 2019-03-08
+date: 2023-01-08
 description: My Github Exploration
 tags: ["markdown","git", "Hugo", "html", "themes"]
 categories: ["themes", "syntax"]

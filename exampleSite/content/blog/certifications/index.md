@@ -1,7 +1,7 @@
 ---
 author: "Jean Burgos"
 title: "Certifications"
-date: "2022-01-07"
+date: "2022-01-17"
 description: "A look at some of the projects that I have done in the military"
 ShowRelated: true
 showToc: false
@@ -101,3 +101,9 @@ There are two schools of thought when preparing for this license. 1. Just memori
 I was lucky enough to take my exam on a Zoom call with 3 amateur radio proctors who were located in Anchorage, AK. They were very helpful. 
 #### Applicability
 I wish that I had know about this license many years ago. I have worked with radios with over 20 years. I thought that I knew a lot about radios. I can frankly say that if I had taken this license before, I would have improved the radio skills of hundreds of soldiers. 
+
+## Current Pursuit
+#### CCNA
+For the past few weeks I have been preparing to take the Cisco Certified Network Associate [CCNA](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/ccna.html) certification to recertify. I used to have the CCNA certification but made the mistake to let it expire. I have been using Neil Anderson's Udemy course. I enjoyed his course because it comes with some Packet Tracer labs aligned with the course subjects. I was almost ready to test but had to stop because I was presented with a different opportunity. 
+#### VMware VCP-DVC
+At the momement I am preparing to take VMware's Data Center Virtualization [VCP-DCV](https://www.vmware.com/learning/certification/vcp-dcv.html) certification. I should be ready to test in the near future. 

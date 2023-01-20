@@ -1,7 +1,7 @@
 ---
 author: "Jean Burgos"
 title: "Amateur Radio"
-date: "2023-01-07"
+date: "2023-01-19"
 description: "A brief description of of my amateur radio background"
 tags: ["Amateur", "Radio", "KD2YAE", "projects", "Military", "DIY"]
 categories: ["Radio", "Projects"]

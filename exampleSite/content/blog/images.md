@@ -1,7 +1,7 @@
 ---
 author: "Jean Burgos"
 title: "Resume"
-date: "2022-03-05"
+date: "2023-01-20"
 description: "My digital resume"
 tags: ["resume","experience", "certifications", "PMP"]
 categories: ["Resumes", "Experience", "certifications"]
