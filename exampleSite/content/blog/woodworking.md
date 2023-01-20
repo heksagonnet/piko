@@ -4,7 +4,7 @@ title: Woodworking
 date: 2022-12-08
 description: My woodworking hobby 
 tags: ["Woodworking","Project", "Hobbies", ]
-categories: ["Woodworking", ""]
+categories: ["Woodworking"]
 math: true
 ShowBreadCrumbs: false
 draft: false
