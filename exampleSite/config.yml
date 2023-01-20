@@ -90,7 +90,7 @@ params:
     aboutTitle: About
     aboutDescription: I hope you enjoy this page as much as I enjoy learning about markdown, HTML, HUGO, GITHUB, and NETLIFY.
     aboutImgUrl: "/uploads/jean.jpg"
-    aboutContent: I am a transitioning Army Soldier with over 23 years of experience leading large and small teams. Managed IT Projects delivering telecommunications and IT capabilities to support customers in austere environments. Passionate about building technology to help customers turn ideas into reality. I feel privileged to the selection to participate as a Corporate Fellow with VMware.
+    aboutContent: My name is Jean Burgos. I am a transitioning Army Soldier with over 23 years of experience leading large and small teams. Managed IT Projects delivering telecommunications and IT capabilities to support customers in austere environments. Passionate about building technology to help customers turn ideas into reality. I feel privileged to the selection to participate as a Corporate Fellow with VMware.
     # Portfolio Section
     disablePortfolioSection: false
     portfolioTitle: Project Portfolio 
