@@ -3,8 +3,8 @@ author: "Jean Burgos"
 title: "Home Lab"
 date: "2023-01-11"
 description: "My homelab and how I have used it to assist in my development and pursue of certifications."
-tags: ["Home_Lab", "Projects", "Networking", "Virtualization"]
-categories: ["Home_Lab", "Projects", "Networking"]
+tags: ["HomeLab", "Projects", "Networking", "Virtualization", "VMware"]
+categories: ["HomeLab", "Projects", "Networking"]
 ShowToc: true
 TocOpen: false
 ---
@@ -20,7 +20,7 @@ My home lab consist of:
   + ## My Desktop
     - [MAG B550 Tomahawk Mother board](https://www.msi.com/Motherboard/MAG-B550-TOMAHAWK)
     - [Ryzen 7 3700X](https://www.amd.com/en/products/cpu/amd-ryzen-7-3700x)
-    - RAM 32 GB RipJaws
+    - RAM 64 GB RipJaws
     - [Samsung Evo 970 M.2 NVME](https://www.samsung.com/us/computing/memory-storage/solid-state-drives/ssd-970-evo-nvme-m2-500gb-mz-v7e500bw/)
     - [Samsung Evo 980 M.2 NVME 2 TB](https://www.samsung.com/us/computing/memory-storage/solid-state-drives/980-pro-pcie-4-0-nvme-ssd-1tb-mz-v8p1t0b-am/)
     - GTX 1080 Graphics Card

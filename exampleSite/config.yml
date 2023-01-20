@@ -75,7 +75,7 @@ params:
     heroUpperTitle: 
     heroTitle: Jean's Projects
     heroDescription: A place to share my creativity and my learning journey with the world. Below you will find a bunch of my blog posts, and further down, you will find some of my past Project Management roles. Reach out if you have any questions. I welcome the discussion. You can use the contact form above or just drop a comment below. 
-    heroCTAPrimaryText: Posts
+    heroCTAPrimaryText: My Posts
     heroCTAPrimaryUrl: "/blog/"
     heroCTASecondaryText: Contact Me
     heroCTASecondaryUrl: "/contact/"
@@ -83,14 +83,14 @@ params:
     # Blog Section
     disableBlogSection: false
     blogTitle: Latest Posts
-    blogDescription: These are Jean's latest posts, click more post to see them all. Scroll down to see Project rolls.
-    seeMoreText: More Posts
+    blogDescription: These are Jean's latest posts; click All my posts to see them. Scroll down to see project roles.
+    seeMoreText: All my posts
     # About Section    
     disableAboutSection: false
     aboutTitle: About
-    aboutDescription: I hope that you enjoy this page as much as I enjoy learning about markdown, html, hugo, github and netlify.
+    aboutDescription: I hope you enjoy this page as much as I enjoy learning about markdown, HTML, HUGO, GITHUB, and NETLIFY.
     aboutImgUrl: "/uploads/jean.jpg"
-    aboutContent: Transitioning Army Soldier with over 23 years of experience leading large and small teams. Managed IT Projects delivering telecommunications and IT capabilities to support customers in austere environments. Passionate about building technology to help customers turn ideas into reality. Privileged for the selection to participate in this exciting opportunity as a VMware Corporate Fellow. I hope that you enjoy this page as much as I enjoy learning about markdown, html, hugo, github and netlify.
+    aboutContent: I am a transitioning Army Soldier with over 23 years of experience leading large and small teams. Managed IT Projects delivering telecommunications and IT capabilities to support customers in austere environments. Passionate about building technology to help customers turn ideas into reality. I feel privileged to the selection to participate as a Corporate Fellow with VMware.
     # Portfolio Section
     disablePortfolioSection: false
     portfolioTitle: Project Portfolio 
