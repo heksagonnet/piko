@@ -83,7 +83,7 @@ params:
     # Blog Section
     disableBlogSection: false
     blogTitle: Latest Posts
-    blogDescription: These are Jean's latest posts
+    blogDescription: These are Jean's latest posts, click more post to see them all. Scroll down to see Project rolls.
     seeMoreText: More Posts
     # About Section    
     disableAboutSection: false
