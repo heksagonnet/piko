@@ -1,8 +1,8 @@
 ---
-author: Hugo Authors
+author: Jean Burgos
 title: Virtualization
-date: 2022-01-08
-description: Virtualization lab coming soon
+date: 2023-01-08
+description: Check out some of my home virtualization journey
 tags: ["virtualization","networking", "HomeLab", "VMware", "ESXi"]
 categories: ["virtualization", "HomeLab"]
 math: true
@@ -34,7 +34,7 @@ I used VMware Workstation in my computer at home to create a learning lab. This 
 
 ## Unable to run virtualization software on my desktop
 The first time I attempted to run VMware Workstation on my computer, I was presented with an error displaying that virtualization was not turned-on on my computer. 
-
+![](/blog/Virtualization/IMG_6089.jpeg)
 ![](/blog/Virtualization/AMD-V%20disabled.png)
 I was able to turn this feature of my MSI B550 motherboard in the bios.
 ![](/blog/Virtualization/IMG_6104.JPEG)
@@ -60,3 +60,4 @@ As an Amateur Radio Operator [KD2YAE](/blog/amateur-radio/) I want to be able to
 I have installed ESXi Type II on Workstation and a Type I on my Dell R430 server. With a much stronger setup I am not able to install vSphere vCenter to manage not only the ESXi on my R430 server but also the ESXi running on my computer as part of the same cluster. The installation of vCenter was a learning process. Initially I was receiving an error during stage one because I did not assign enough memory to appliance. The second time I ran into another issue, this type on phase two of the installation because I did not have a DNS or a Domain Controller set up. After all of that the installation was finally done. Then I realized that vCenter is resource intensive and it was not a good idea to run it from my computer along with other VMs. 
 ![](/blog/Virtualization/esxi.png)
 This set up has been tremendous help to get some real live hands on experience. VMware provides free Hands on Lab, but I feel like the physcal gear was necessary for my to see all the parts come together. 
+![](/blog/Virtualization/server.jpeg)

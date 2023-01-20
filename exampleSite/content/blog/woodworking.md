@@ -1,5 +1,5 @@
 ---
-author: Hugo Authors
+author: Jean Burgos
 title: Woodworking
 date: 2019-03-08
 description: My woodworking hobby 

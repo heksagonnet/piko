@@ -1,5 +1,5 @@
 ---
-author: Jean Burgo
+author: Jean Burgos
 title: Github
 date: 2023-01-08
 description: My Github Exploration

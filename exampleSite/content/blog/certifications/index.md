@@ -1,7 +1,7 @@
 ---
 author: "Jean Burgos"
 title: "Certifications"
-date: "2022-01-17"
+date: "2023-01-17"
 description: "A look at some of the projects that I have done in the military"
 ShowRelated: true
 showToc: false
