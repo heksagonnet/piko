@@ -112,6 +112,10 @@ params:
       alt: # image alt for better SEO
       description: Deployable Communications Infrastructure
       websiteUrl: /project4
+    - imageUrl: /project5/TCF.jpg
+      alt: # image alt for better SEO
+      description: Deployed Signal Support Team (Technical Control Facility)
+      websiteUrl: /project5
   # Search Options (https://fusejs.io/)
   fuseOpts:
     isCaseSensitive: false
