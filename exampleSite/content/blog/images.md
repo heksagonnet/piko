@@ -38,7 +38,8 @@ IT Project Manager and US Army Veteran with 22+ years of experience in network e
 ---
 #### Professional Experience 
 ### !["United States Army"](/uploads/army.png)   United States Army
-###### **Senior Information Technology Project Manager (2021-Present)**
+###### [**Senior Information Technology Project Manager (2021-Present)**](/projects/#project-one)
+
  <details>
    <summary><mark>Expand for more details</mark></summary>
 
@@ -49,7 +50,7 @@ IT Project Manager and US Army Veteran with 22+ years of experience in network e
    + Cross-leveled and developed talent; filled critical skills gaps and staffing needs for six internal and external IT departments; coordinated with HR to keep track of the proper alignment and manned cycles to meet unique customer requirements  
  </details>
 
-###### **Senior Project Manager (2018-2021)**
+###### [**Senior Project Manager (2018-2021)**](/project3/)
  <details>
   <summary><mark>Expand for more details</mark></summary>
 
@@ -59,7 +60,7 @@ Led eight teams of 120 faculty to educate 1,800 students meeting academic and or
   + Created a digital maintenance process using QR Codes, Google Sheets, SQL to collect, categorize and analyze data used to prioritize and process over 500 maintenance issues of $2M of resources reducing work order time by 25%.
   </details>
 
-###### **Senior Training Project Manager (2016-2018)**
+###### [**Senior Training Project Manager (2016-2018)**](/project2/)
  <details>
   <summary><mark>Expand for more details</mark></summary>
 
@@ -69,7 +70,7 @@ Prepared schedules, risk management, resource management, project staffing, and 
   + Led change; spearheaded the implementation of new program changes: created teaching products for Project Managers to identify potential opportunities and managed expectations; resulted in zero time lost and seamless execution of a new program.
    </details>
 
-###### **Senior IT Manager (2014-2016)**
+###### [**Senior IT Manager (2014-2016)**](/project4/)
 <details>
  <summary><mark>Expand for more details</mark></summary>
 
@@ -80,7 +81,7 @@ haul transmissions data center providing executives with secured voice, data, an
   + Identified potential risk exposures, recommended solutions, and implemented mitigations to meet compliance.
     </details>
 
-###### **IT Operations Team Lead (2010-2014)**
+###### [**IT Operations Team Lead (2010-2014)**](/project5/)
 <details>
  <summary><mark>Expand for more details</mark></summary>
 
@@ -110,7 +111,7 @@ Coordinated marketing and prospecting strategies for lead-generation activities 
 - Basic Installer Course
 - 5G for Everyone
 - Jira Fundamentals
-- General Amateur Radio License [Radio](/post/radio)
+- General Amateur Radio License [Radio](/blog/amateur-radio/)
 
 ---
 ## Technical Competencies
