@@ -31,14 +31,14 @@ minify:
 params:
   analytics:
     google:
-      SiteVerificationTag: # Google Site Verification
+      SiteVerificationTag: G-TKJP5MBRWB
     yandex:
       SiteVerificationTag: # Yandex Site Verification
     bing:
       SiteVerificationTag: # Bing Site Verification
   env: production
   author: Jean Burgos
-  description: My website description
+  description: A place to share my creativity and learning journey.
   math: false
   images:
   - "/uploads/og.webp"
