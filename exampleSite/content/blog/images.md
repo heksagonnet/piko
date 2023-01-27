@@ -33,6 +33,7 @@ IT Project Manager and US Army Veteran with 22+ years of experience in network e
 - [AWS Cloud Practitioner](/blog/certifications/#aws-cloud-practitioner)
 - [ITIL Foundation](/blog/certifications/#itil-v4)
 - [AZ-900 Azure Fundamentals](/blog/certifications/#azure-fundamentals-az-900)
+- [VMware Certified Professional-Data Center Virtualization 2023](https://www.vmware.com/learning/certification/vcp-dcv.html)
 - Lean Six Sigma Green Belt (LSSGB)
 
 ---

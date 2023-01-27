@@ -24,6 +24,23 @@ The PMP exam is without a doubt one of the hardest tests I have ever taken. This
 #### Applicability
 Everything that I have learned in this journey is critial in my career as I plan to pursue an IT Project Management career beyond the military. 
 
+### VMware Certified Professional- Data Center (2V0-21.20)
+![](/blog/certifications/IMG-6118.PNG)
+#### Preparation
+- Courses and Labs
+  - [VMware vSphere: Install, Configure, Manage [V7] On-Demand](https://store-us.vmware.com/vmware-vsphere-install-configure-manage-v7-on-demand-5425102900.html)
+  - [VMware vSphere: Optimize and Scale [V7] – On Demand](https://mylearn.vmware.com/gw/mylearn/course/course-details/93968)
+#### Book
+- [VCP-DCV for vSphere 7.x (Exam 2V0-21.20) Official Cert Guide (VMware Press Certification)](https://www.oreilly.com/library/view/vcp-dcv-for-vsphere/9780135936610/)
+#### What did I learn during this journey 
+During this journey I learned how powerful vSphere ESXi and vCenter are to get the most out of a Data Center. vMotion, Fault Tolerance, High Availability, Distributed Resource Scheduler, Replication and many other features are a clear advantage over traditional On Premises set ups.
+
+#### Exam
+I registered and took the exam on [Person Vue online](https://www.pearsonvue.com/) testing from home. The exam had 70 questions with a passing score of 300 and a time limit of 130 minutes. 
+
+#### Applicability
+This course and certification are absolutely critical in my journey to learn more about virtualization and learn the versatility of levering cloud services that can reach world wide deployments within minutes. Defenitely a great starting point to learn more about [VMware Cloud on AWS](https://www.vmware.com/products/vmc-on-aws.html).
+
 ### Security Plus
 ![](/blog/certifications/sec.png) [](https://www.comptia.org/certifications/security)
 #### Preparation
