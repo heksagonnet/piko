@@ -61,3 +61,7 @@ I have installed ESXi Type II on Workstation and a Type I on my Dell R430 server
 ![](/blog/Virtualization/esxi.png)
 This set up has been tremendous help to get some real live hands on experience. VMware provides free Hands on Lab, but I feel like the physcal gear was necessary for my to see all the parts come together. 
 ![](/blog/Virtualization/server.jpeg "I need to find an affordable cabinet deep enough to house this puppy")
+
+![](/blog/Virtualization/ESXionR430vcenter.png "ESXi on R430")
+![](/blog/Virtualization/ESXionR430.png "ESXi on R430")
+![](/blog/Virtualization/vcenterinstall.png "vCenter Install on Desk Top as appliance")
