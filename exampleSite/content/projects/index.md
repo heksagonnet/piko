@@ -28,7 +28,7 @@ Projects have five phases that are initiaitng, planning, executing, monitoring a
 - The Command Post field communications infrastructure is critical for commanders to communicate with higher, lower and peer executives as well as internal and external rotary aviation staff in any environment. This infrastructure must be mobile, yet versitile to accomodate a variety of services and systems . 
 
 **2. Define the key objectives of the project**
-- Install and delive a network achitechture to provide secure voice, data and video capabilites. 
+- Install and deliver a network achitechture to provide secure voice, data and video capabilites. 
 
 ##### Planning Phase
 **3. Outline the project statement of work**
