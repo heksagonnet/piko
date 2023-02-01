@@ -8,7 +8,7 @@ categories: ["virtualization", "HomeLab"]
 math: true
 ShowRelated: true
 ShowToc: true
-ShowBreadCrumbs: false
+ShowBreadCrumbs: true
 draft: false
 ---
 # Virtualization

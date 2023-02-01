@@ -38,7 +38,7 @@ This logo was inspired by the Parks on the Air activity in amateur radio. This o
 ###### POTA Hunter
 
 ## Vets2Industry Logo
-![POTA Hunter](/uploads/drawing/V2IShield.png) One of the coolest logos I have created was inspired my the Veterans to Industry or [Vets2Industry](https://vets2industry.org/) organization. Not only was I inspired by their logo and the potential up scale design I could provide, but I though that I would be a great contribution to an organization that provides so much for transitioning service members like myself. 
+![POTA Hunter](/uploads/drawing/V2IShield.png) One of the coolest logos I have created was inspired my the Veterans to Industry or [Vets2Industry](https://vets2industry.org/) organization. Not only was I inspired by their logo and the potential to up scale the design, but I though that it would be a great contribution to an organization that provides so much for transitioning service members like myself. 
 ## End of my art
 
 

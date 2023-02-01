@@ -6,6 +6,7 @@ description: "My amateur radio background"
 tags: ["Amateur", "Radio", "KD2YAE", "projects", "Military", "DIY"]
 categories: ["Radio", "Projects"]
 ShowToc: true
+ShowRelated: true
 TocOpen: true
 ---
 
