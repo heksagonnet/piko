@@ -4,7 +4,7 @@ title: "Certifications"
 date: "2023-01-17"
 description: "A look at some of the projects that I have done in the military"
 ShowRelated: true
-showToc: false
+showToc: true
 category: ["Resume", "Certifications"]
 tags: ["Certifications","Resume", "PMP", "Security+", "Network+"]
 ---

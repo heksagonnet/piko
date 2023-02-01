@@ -6,6 +6,7 @@ description: Check out some of my home virtualization journey
 tags: ["virtualization","networking", "HomeLab", "VMware", "ESXi"]
 categories: ["virtualization", "HomeLab"]
 math: true
+ShowRelated: true
 ShowToc: true
 ShowBreadCrumbs: false
 draft: false
