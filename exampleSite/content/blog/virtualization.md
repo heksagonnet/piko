@@ -57,7 +57,7 @@ Linux Debian runs without any issues.
 
 As an Amateur Radio Operator [KD2YAE](/blog/amateur-radio/) I want to be able to analyze the current signal propagation. There are tools like VOACAP that allow for some calculations but there is a program called [Ham Clock](https://www.clearskyinstitute.com/ham/HamClock/). This useful tool can gather current solar conditions and many other parameters to provide a fairly accurate prediction of successful contact based on geografical location, time of day and frequencies. The problem is that I don't have a Rasberrypie to run it. I had the idea to try running it on my VMware Workstation. I installed Linux Debian distro. I was then able to run Raspberry Pi Desktop to then launch Ham Clock. :smiley: 
 
-## ESXi and vCenter
+## ESXi
 I have installed ESXi Type II on Workstation and a Type I on my Dell R430 server. With a much stronger setup I am not able to install vSphere vCenter to manage not only the ESXi on my R430 server but also the ESXi running on my computer as part of the same cluster. The installation of vCenter was a learning process. Initially I was receiving an error during stage one because I did not assign enough memory to appliance. The second time I ran into another issue, this type on phase two of the installation because I did not have a DNS or a Domain Controller set up. After all of that the installation was finally done. Then I realized that vCenter is resource intensive and it was not a good idea to run it from my computer along with other VMs. 
 ![](/blog/Virtualization/esxi.png)
 This set up has been tremendous help to get some real live hands on experience. VMware provides free Hands on Lab, but I feel like the physcal gear was necessary for my to see all the parts come together. 
@@ -65,4 +65,15 @@ This set up has been tremendous help to get some real live hands on experience. 
 
 ![](/blog/Virtualization/ESXionR430vcenter.png "ESXi on R430")
 ![](/blog/Virtualization/ESXionR430.png "ESXi on R430")
+## vCenter
+
 ![](/blog/Virtualization/vcenterinstall.png "vCenter Install on Desk Top as appliance")
+
+## NSX-T Training
+
+![](/blog/Virtualization/NSX-T_Lab.png "NSX-T Underlay")
+
+![](/blog/Virtualization/NSX_intrution_detection.png.png "NSX-T Intrution detection")
+
+![](/blog/Virtualization/NSX_traffic_analysis.png "NSX-T Traffic Analysis")
+
