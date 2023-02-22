@@ -73,7 +73,7 @@ This set up has been tremendous help to get some real live hands on experience. 
 
 ![](/blog/Virtualization/NSX-T_Lab.png "NSX-T Underlay")
 
-![](/blog/Virtualization/NSX_intrution_detection.png.png "NSX-T Intrution detection")
+![](/blog/Virtualization/NSX_intrution_detection.png.png "NSX-T Intrusion Detection")
 
 ![](/blog/Virtualization/NSX_traffic_analysis.png "NSX-T Traffic Analysis")
 

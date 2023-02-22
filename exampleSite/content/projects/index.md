@@ -108,6 +108,34 @@ These type of projects require coordinations with multiple functional areas with
 
 ![](/projects/IMG_5135.jpg "10th CAB Tactical Command Post")![](/projects/IMG_4955.jpg)![](/projects/IMG_5183(1).jpg)
 
+## Manifesto for Agile Software Development
+We are uncovering better ways of developing
+software by doing it and helping others do it.
+Through this work we have come to value:
+
+**Individuals and interactions** over processes and tools
+**Working software** over comprehensive documentation
+**Customer collaboration** over contract negotiation
+**Responding to change** over following a plan
+
+That is, while there is value in the items on
+the right, we value the items on the left more.
+
+## Agile and Military Projects
+Much like in the Agile Manifesto projects in the military are doing in a very dynamic manner. 
+***Individuals and interactions*** over processes and tools
+It is critical for IT Project Managers not only know they organization they work for but it is even more important to dedicate time to learn how we can make their jobs easier regardless of the environment.
+
+***Working software (Product)*** over comprehensive documentation
+Standard Operating Procedures (SOP) are necessary to improve efficiency. However, we can never believe that any SOP is the end all to any project. Customer/ Stakeholders/ Users don't care how you make it work, as long as it works. They also don't care why the system is down, they just needed working. Understanding what work cannot be done because the systems we provide are not operational has helped me identify alternate solutions to the main problems we may have faced. 
+
+***Customer collaboration*** over contract negotiation
+As mentioned above taking the time to learn what is important to Customer/ Stakeholders/ Users is parramount. I have many examples where customers did not know what their requirement were or how they wanted the end product to look like. Similar to software development, these type of solutions requires the Project Manager to provide ideas on paper and walk those ideas to a solution that meets and exceeds customer expectations. From ideas to reality.
+
+**Responding to change** over following a plan
+Having a plan is required for project management, but this plan should not be as ridgid as to not allow for adapting to change towards a goal that meets the organization's needs. 
+
+As you can see there are a lot of similarities between Agile Project Management and Military Project Management. 
 ### Other Projects
 - [Command Post Field Communications Infrastructure Project](/projects)
 - [Basic Combat Training Projects](/project2)
