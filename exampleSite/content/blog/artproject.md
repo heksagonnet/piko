@@ -39,6 +39,9 @@ This logo was inspired by the Parks on the Air activity in amateur radio. This o
 
 ## Vets2Industry Logo
 ![POTA Hunter](/uploads/drawing/V2IShield.png) One of the coolest logos I have created was inspired my the Veterans to Industry or [Vets2Industry](https://vets2industry.org/) organization. Not only was I inspired by their logo and the potential to up scale the design, but I though that it would be a great contribution to an organization that provides so much for transitioning service members like myself. 
+
+## 3rd Platoon Punishers
+![3rd Platoon Punishers](/uploads/drawing/punisher.png)  I made this logo during my time as a Drill Sergeant while stationed on Fort Benning. The art is inspired by the Punisher cartoon with the traits of Profient, Persistent, Dependable, Motivated and the Si vis pacem, para bellum or "In peace, Prepare for war". 
 ## End of my art
 
 
