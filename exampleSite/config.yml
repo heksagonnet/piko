@@ -1,11 +1,11 @@
 ---
-baseURL: https://piko-heksagon.netlify.app/
+baseURL: https://vocal-rabanadas-6f33e3.netlify.app
 languageCode: en-us
-title: Piko
+title: Home
 theme: piko
 paginate: "9"
-copyright: A template by [Heksagon](https://www.heksagon.net "Your most friendly developer")
-googleAnalytics: # Enter Google Analytics ie. UA-012345678-9
+copyright: Thank you to [Heksagon](https://www.heksagon.net "Your most friendly developer") for this awesome template.
+googleAnalytics: G-TKJP5MBRWB
 enableRobotsTXT: true
 buildDrafts: false
 buildFuture: false
@@ -31,21 +31,21 @@ minify:
 params:
   analytics:
     google:
-      SiteVerificationTag: # Google Site Verification
+      SiteVerificationTag: G-TKJP5MBRWB
     yandex:
       SiteVerificationTag: # Yandex Site Verification
     bing:
       SiteVerificationTag: # Bing Site Verification
   env: production
-  author: Your Name
-  description: Your website description
+  author: Jean Burgos
+  description: A place to share my creativity and learning journey.
   math: false
   images:
   - "/uploads/og.webp"
   label:
-    title: _Piko Title_
-    text: Welcome to Piko
-    icon: /uploads/zap.svg
+    title: _Jean Projects_
+    text: Welcome to Jean's Projects
+    icon: /uploads/cloud.png
     iconHeight: "35"
     iconWIdth: "35"
   comments: true
@@ -62,52 +62,60 @@ params:
   contactFormAction: # Get link from https://formsubmit.io or https://fabform.io
   assets:
     disableFingerprinting: false
-    favicon: /uploads/zap.svg
-    favicon16x16: /uploads/zap.svg
-    favicon32x32: /uploads/zap.svg
-    apple_touch_icon: /uploads/zap.svg
-    safari_pinned_tab: /uploads/zap.svg
+    favicon: /uploads/cloud.png
+    favicon16x16: /uploads/cloud.png
+    favicon32x32: /uploads/cloud.png
+    apple_touch_icon: /uploads/cloud.png
+    safari_pinned_tab: /uploads/cloud.png
   ShowReadingTime: true
   ShowBreadCrumbs: true
   homepage:
     # Hero Section
     disableHeroSection: false
     heroUpperTitle: 
-    heroTitle: Piko
-    heroDescription: Lightweight theme for your every need
-    heroCTAPrimaryText: Blog
+    heroTitle: Jean's Projects
+    heroDescription: A place to share my creativity and my learning journey with the world. Below you will find a bunch of my blog posts, and further down, you will find some of my past Project Management roles. Reach out if you have any questions. I welcome the discussion. You can use the contact form above or just drop a comment below. 
+    heroCTAPrimaryText: My Posts
     heroCTAPrimaryUrl: "/blog/"
     heroCTASecondaryText: Contact Me
     heroCTASecondaryUrl: "/contact/"
-    heroBackgroundImage: "/uploads/portfolio-1.webp"
+    heroBackgroundImage: "/uploads/mypic.jpg"
     # Blog Section
     disableBlogSection: false
     blogTitle: Latest Posts
-    blogDescription: This is my latest blog posts
-    seeMoreText: More Posts
+    blogDescription: These are Jean's latest posts; click All my posts to see them. Scroll down to see project roles.
+    seeMoreText: All my posts
     # About Section    
     disableAboutSection: false
     aboutTitle: About
-    aboutDescription: Just something about me
-    aboutImgUrl: "/uploads/self.webp"
-    aboutContent: Hi guys. This is where you put something about yourself.
+    aboutDescription: I hope you enjoy this page as much as I enjoy learning about markdown, HTML, HUGO, GITHUB, and NETLIFY.
+    aboutImgUrl: "/uploads/jean.jpg"
+    aboutContent: My name is Jean Burgos. I am a transitioning Army Soldier with over 23 years of experience leading large and small teams. Managed IT Projects delivering telecommunications and IT capabilities to support customers in austere environments. Passionate about building technology to help customers turn ideas into reality. I feel privileged to the selection to participate as a Corporate Fellow with VMware.
     # Portfolio Section
     disablePortfolioSection: false
-    portfolioTitle: Portfolio
-    portfolioDescription: Some of my works
+    portfolioTitle: Project Portfolio 
+    portfolioDescription: Check out how my past military assigments are relevat to project management.  
     portfolio:
-    - imageUrl: /uploads/portfolio-1.webp
+    - imageUrl: /uploads/IMG_4737.jpg
       alt: # image alt for better SEO
-      description: Portfolio One.
-      websiteUrl: #
-    - imageUrl: /uploads/portfolio-2.webp
+      description: Command Post Field Communications Infrastructure Project
+      websiteUrl: /projects/#project-one
+    - imageUrl: /project2/IMG_1135.JPG 
       alt: # image alt for better SEO
-      description: Portfolio Two.
-      websiteUrl: #
-    - imageUrl: /uploads/portfolio-3.webp
+      description: Basic Combat Training Projects
+      websiteUrl: /project2
+    - imageUrl: /project3/1sg2.PNG
       alt: # image alt for better SEO
-      description: Portfolio Three.
-      websiteUrl: #
+      description: Satellite Technicians Course Project
+      websiteUrl: /project3
+    - imageUrl: /project4/team.jpg
+      alt: # image alt for better SEO
+      description: Deployable Communications Infrastructure
+      websiteUrl: /project4
+    - imageUrl: /project5/TCF.jpg
+      alt: # image alt for better SEO
+      description: Deployed Signal Support Team (Technical Control Facility)
+      websiteUrl: /project5
   # Search Options (https://fusejs.io/)
   fuseOpts:
     isCaseSensitive: false
@@ -139,15 +147,40 @@ menus:
     url: "/search"
     weight: "30"
   - name: Contact
-    title: Contact
+    title: Email
     pre: mail
     url: "/contact"
     weight: "40"
   - name: Github
-    title: 
+    title: Github
     pre: github
-    url: https://github.com/heksagonnet/piko
+    url: https://github.com/jeanburgos
     weight: "50"
+  - name: Youtube
+    title: Youtube
+    pre: youtube
+    url: https://www.youtube.com/channel/UCpYBncsI47H6JD1NoMFCdwQ
+    weight: "60"
+  - name: LinkedIn
+    title: LinkedIn
+    pre: linkedin
+    url: https://www.linkedin.com/in/jean-jan-burgos/
+    weight: "70" 
+  - name: Resume
+    title: Resume
+    pre: briefcase
+    url: "/blog/images"
+    weight: "80" 
+  - name: Home
+    title: Home
+    pre: home
+    url: "../.."
+    weight: "10"
+  - name: Project
+    title: Project
+    pre: briefcase
+    url: "/projects"
+    weight: "90"
   search: # Search page's quick links
   - name: Categories
     title: Categories

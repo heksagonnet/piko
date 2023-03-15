@@ -1,6 +1,6 @@
 ---
 title: 'Contact Me' # in any language you want
-# url: "/archive"
+url: 
 description: 'How can I help you?'
 disableShare: true
 layout: contact

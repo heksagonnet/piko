@@ -1,13 +1,14 @@
 ---
-author: "Hugo Authors"
-title: "Emoji Support"
-date: "2019-03-05"
+author: "Jean Burgos"
+title: "Emoji page template"
+date: "2022-01-07"
 description: "Guide to emoji usage in Hugo"
-tags: ["emoji","markdown", "css", "html", "themes"]
-categories: ["themes", "syntax"]
+tags: ["","", "", "", ""]
+categories: ["", ""]
 ShowRelated: false
 showToc: false
 ShowBreadCrumbs: false
+draft: true
 ---
 
 Emoji can be enabled in a Hugo project in a number of ways.
