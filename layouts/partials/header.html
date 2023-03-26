@@ -5,7 +5,15 @@
     <li>
       <a class="logo" href="{{ "" | absLangURL }}" accesskey="h" title="{{ $label_text }} (Alt + h)">
         <img
-          src="{{.Site.Params.label.icon | relURL}}"
+          id="lightMainIcon"
+          src="{{.Site.Params.label.lightNavIcon | relURL}}"
+          alt="{{ $label_text }}"
+          width="{{.Site.Params.label.iconHeight | safeHTML }}"
+          height="{{.Site.Params.label.iconWidth | safeHTML }}"
+        ></img>
+        <img
+          id="darkMainIcon"
+          src="{{.Site.Params.label.darkNavIcon | relURL}}"
           alt="{{ $label_text }}"
           width="{{.Site.Params.label.iconHeight | safeHTML }}"
           height="{{.Site.Params.label.iconWidth | safeHTML }}"

@@ -4,14 +4,18 @@ let theme = localStorage.getItem('data-theme')
 
 const changeThemeToDark = () => {
   document.getElementById('lightIcon').setAttribute('style', 'display:none')
+  document.getElementById('lightMainIcon').setAttribute('style', 'display:none')
   document.getElementById('darkIcon').setAttribute('style', 'inline-block')
+  document.getElementById('darkMainIcon').setAttribute('style', 'inline-block')
   document.documentElement.setAttribute('data-theme', 'dark') // set theme to dark
   localStorage.setItem('data-theme', 'dark') // save theme to local storage
 }
 
 const changeThemeToLight = () => {
   document.getElementById('darkIcon').setAttribute('style', 'display:none')
+  document.getElementById('darkMainIcon').setAttribute('style', 'display:none')
   document.getElementById('lightIcon').setAttribute('style', 'inline-block')
+  document.getElementById('lightMainIcon').setAttribute('style', 'inline-block')
   document.documentElement.setAttribute('data-theme', 'light') // set theme light
   localStorage.setItem('data-theme', 'light') // save theme to local storage
 }

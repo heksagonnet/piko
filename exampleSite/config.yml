@@ -45,7 +45,8 @@ params:
   label:
     title: _Piko Title_
     text: Welcome to Piko
-    icon: /uploads/zap.svg
+    lightNavIcon: /uploads/sun.svg
+    darkNavIcon: /uploads/zap.svg
     iconHeight: "35"
     iconWIdth: "35"
   comments: true
