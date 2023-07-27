@@ -34,7 +34,7 @@ The above banners have been my contribution to the Army's social media pages and
 ![POTA Activator](/uploads/drawing/activator.png) 
 ###### POTA Activator
 ![POTA Hunter](/uploads/drawing/hunter.png) 
-This logo was inspired by the Parks on the Air activity in amateur radio. This one logo with the initials [KD2WLN](https://www.qrz.com/db/KD2WLN) K D 2 *"Working Late Knights"* was deicated to my great friend and radio mentor Cody Callahan. Cody is an avid park activator and I love his passion and enthusiasm about radios and people in general. Hope to catch you soon on the air brother!
+This logo was inspired by the Parks on the Air activity in amateur radio. This one logo with the initials [KD2WLN](https://www.qrz.com/db/KD2WLN) K D 2 *"Working Late Nights"* was deicated to my great friend and radio mentor Cody Callahan. Cody is an avid park activator and I love his passion and enthusiasm about radios and people in general. Hope to catch you soon on the air brother!
 ###### POTA Hunter
 
 ## Vets2Industry Logo
