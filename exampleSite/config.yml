@@ -194,3 +194,5 @@ menus:
     title: Tags
     url: "/tags"
     weight: "30"
+# Config file located at D:\Hugo\Piko\piko\exampleSite\config.yml
+# Run Hugo from D:\Hugo\Piko\piko> by using this command hugo server --themesDir ../..
