@@ -3,8 +3,8 @@ author: "Jean Burgos"
 title: "Home Lab"
 date: "2023-01-11"
 description: "My homelab and how I have used it to assist in my development and pursue of certifications."
-tags: ["HomeLab", "Projects", "Networking", "Virtualization", "VMware"]
-categories: ["HomeLab", "Projects", "Networking"]
+tags: ["HomeLab", "Projects", "Networking", "Virtualization", "VMware", "Security+", "Network+", "CCNA", "VCP-DCV", "VCP-NSX"]
+categories: ["HomeLab", "Projects", "Networking", "virtualization"]
 ShowToc: true
 TocOpen: false
 ---

@@ -6,7 +6,7 @@ description: "A look at some of the projects that I have done in the military"
 ShowRelated: true
 showToc: true
 category: ["Resume", "Certifications"]
-tags: ["Certifications","Resume", "PMP", "Security+", "Network+"]
+tags: ["Certifications","Resume", "PMP", "Security+", "Network+", "CCNA", "VCP-DCV", "VCP-NSX"]
 ---
 #
 ### Project Management Professional (PMP)
@@ -37,6 +37,8 @@ During this journey I learned how powerful vSphere ESXi and vCenter are to get t
 
 #### Exam
 I registered and took the exam on [Person Vue online](https://www.pearsonvue.com/) testing from home. The exam had 70 questions with a passing score of 300 and a time limit of 130 minutes. 
+[VMware vSphere 8.x Professional](https://www.vmware.com/learning/certification/vcp-dcv-8-exam.html)
+135 Minutes 70 Questions $250 USD
 
 #### Applicability
 This course and certification are absolutely critical in my journey to learn more about virtualization and learn the versatility of levering cloud services that can reach world wide deployments within minutes. Defenitely a great starting point to learn more about [VMware Cloud on AWS](https://www.vmware.com/products/vmc-on-aws.html).
@@ -118,9 +120,36 @@ There are two schools of thought when preparing for this license. 1. Just memori
 I was lucky enough to take my exam on a Zoom call with 3 amateur radio proctors who were located in Anchorage, AK. They were very helpful. 
 #### Applicability
 I wish that I had know about this license many years ago. I have worked with radios with over 20 years. I thought that I knew a lot about radios. I can frankly say that if I had taken this license before, I would have improved the radio skills of hundreds of soldiers. 
-
-## Current Pursuit
 #### CCNA
-For the past few weeks I have been preparing to take the Cisco Certified Network Associate [CCNA](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/ccna.html) certification to recertify. I used to have the CCNA certification but made the mistake to let it expire. I have been using Neil Anderson's Udemy course. I enjoyed his course because it comes with some Packet Tracer labs aligned with the course subjects. I was almost ready to test but had to stop because I was presented with a different opportunity. 
-#### VMware VCP-DVC
-At the momement I am preparing to take VMware's Data Center Virtualization [VCP-DCV](https://www.vmware.com/learning/certification/vcp-dcv.html) certification. I should be ready to test in the near future. 
+![](/blog/certifications/ccna_color.png) 
+
+For the past few weeks I have been preparing to take the Cisco Certified Network Associate [CCNA](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/ccna.html) certification to recertify. I used to have the CCNA certification but made the mistake to let it expire. I was almost ready to test but had to stop because I was presented with a different opportunity to take PMP. In December 2023, I finally pulled the trigger and passed the CCNA certification. 
+#### Preparation
+I have been using Neil Anderson's Udemy course, CBTNuggets, and an in-person bootcamp. I enjoyed these courses and have used Packet Tracer labs and GNS3 to practice the course subjects. 
+#### What did I learn during this journey 
+Without a doubt, the content in the CCNA certification is the most relevant in my career in IT in and outside of the military. There is a ton of content that can be applied immediatly. 
+#### Exam
+This exam tests your knowledge and skills related to:
+
+- Network fundamentals
+- Network access
+- IP connectivity
+- IP services
+- Security fundamentals
+- Automation and programmability
+
+#### Applicability
+I have worked around IT for a long while. From my first introduction to VOIP and network switches I was immediatly hooked. The landscape is definetely changing, yet the need for Network Engineers and Administrators remains. With all the changes in network automations, the opportunity to learn more than just networking is everywhere. I believe this is how you remain relevant. Users will continue to need Wi-Fi networks, and networking knowledge is still alive in cloud computing. As with the VMware NSX certification, network is often coupled with security. 
+#### VMware VCP-NSX
+![](/blog/certifications/nsx.png) 
+
+During my fellowship with VMware, I was fortunate that the entire training catalog was opened to us. I took full advantage of this opportunity and achieved the VMware's configuring, deploying, and managing VMware NSX environments, which are used to virtualize networking and security services [VCP-NSX](https://www.vmware.com/learning/certification/vcp-nv-nsxt.html) certification. With this certification you test on configuring, deploying, and managing VMware NSX environments, which are used to virtualize networking and security services. 
+
+#### Preparation
+I took VMware NSX: Install, Configure, Manage On Demand course which has some really fun labs. 
+#### What did I learn during this journey 
+#### Exam
+[VMware NSX 4.x Professional 2V0-41.23](https://www.vmware.com/learning/certification/vcp-nv-4-exam.html)
+135 Minutes 70 Questions $250 USD
+#### Applicability
+## Latest Pursuit

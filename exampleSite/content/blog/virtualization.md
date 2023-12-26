@@ -3,8 +3,8 @@ author: Jean Burgos
 title: Virtualization
 date: 2023-01-08
 description: Check out some of my home virtualization journey
-tags: ["virtualization","networking", "HomeLab", "VMware", "ESXi"]
-categories: ["virtualization", "HomeLab"]
+tags: ["virtualization","networking", "HomeLab", "VMware", "ESXi", "VCP-DCV", "VCP-NSX", "CCNA"]
+categories: ["virtualization", "HomeLab", "Certifications"]
 math: true
 ShowRelated: true
 ShowToc: true

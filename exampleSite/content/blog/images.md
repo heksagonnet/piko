@@ -3,7 +3,7 @@ author: "Jean Burgos"
 title: "Resume"
 date: "2023-01-20"
 description: "My digital resume, no really"
-tags: ["resume","experience", "certifications", "PMP"]
+tags: ["resume","experience", "certifications", "PMP", "Security+", "Network+", "CCNA", "VCP-DCV", "VCP-NSX"]
 categories: ["Resumes", "Experience", "certifications"]
 ShowRelated: true
 showToc: true
@@ -28,18 +28,28 @@ IT Project Manager and US Army Veteran with 22+ years of experience in network e
 #### Certifications
 ![](/blog/certifications/certificationsall.png)
 - [Project Management Professional (PMP)](/blog/certifications/#project-management-professional-pmp)
+- [Cisco Certified Network Associate (CCNA)](/blog/certifications/#ccna)
 - [Security +](/blog/certifications/#security-plus)
 - [Network +](/blog/certifications/#network-plus)
 - [AWS Cloud Practitioner](/blog/certifications/#aws-cloud-practitioner)
 - [ITIL Foundation](/blog/certifications/#itil-v4)
 - [AZ-900 Azure Fundamentals](/blog/certifications/#azure-fundamentals-az-900)
 - [VMware Certified Professional-Data Center Virtualization 2023](https://www.vmware.com/learning/certification/vcp-dcv.html)
+- [VMware Certified Professional-Network Virtualization 2023](https://www.vmware.com/learning/certification/vcp-nv-nsxt.html)
 - Lean Six Sigma Green Belt (LSSGB)
 
 ---
 #### Professional Experience 
+### !["L3Harris"](/uploads/L3Harris.png) L3Harris
+###### [**Lead Network Systems Engineer (2023-Present)**](/projects/#project-one)
+  Performs technical planning, system integration, verification and validation, cost and risk analysis for total system supportability. Participates in concept, design, fabrication, test, installation, operation, maintenance and disposal. Ensures the logical and systematic conversion of customer requirements into total systems solutions that acknowledge technical, schedule and cost constraints. Performs functional analysis, timeline analysis, detail trade studies, requirements allocation to translate customer requirements into hardware and software specifications.
+  + Uses development processes to prepare systems requirements, estimates, field studies, design reviews, and documentation to deploy networking technologies using HCLOS, MANET, mesh WiFi, LTE, and SATCOM with secure overlay networks, such as GRE, IPSEC, and DMVPN.
+
+  + Implements reliable enterprise LAN and WAN routing/switching networking solutions at the tactical edge by configuring Juniper and Cisco network devices as well as performs server installation of voice and data services (including CUCM, Asterisk, REDCOM Sigma SIP telephony systems), Windows Server on bare metal hardware or virtual machines. 
+
+  + Provides short-term technical support to internal and external customers to support front-end business development activities, including planning, customer visits, technical briefings, and proposal developments.
 ### !["United States Army"](/uploads/army.png)   United States Army
-###### [**Senior Information Technology Project Manager (2021-Present)**](/projects/#project-one)
+###### [**Senior Information Technology Project Manager (2021-2023)**](/projects/#project-one)
 
  <details>
    <summary><mark>Expand for more details</mark></summary>
