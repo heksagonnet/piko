@@ -22,11 +22,12 @@ IT Project Manager and US Army Veteran with 22+ years of experience in network e
 ---
 #### Education
 ![s](/uploads/grantham1.png)Master of Science, Information Technology | University of Arkansas Grantham
+
 ![s](/uploads/uiw.png) Bachelor of Science, Business Administration | University of Incarnate Word 
 
 ---
 #### Certifications
-![](/blog/certifications/certificationsall.png)
+![](/blog/certifications/Certifications_small.png)
 - [Project Management Professional (PMP)](/blog/certifications/#project-management-professional-pmp)
 - [Cisco Certified Network Associate (CCNA)](/blog/certifications/#ccna)
 - [Security +](/blog/certifications/#security-plus)
