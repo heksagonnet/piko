@@ -196,4 +196,3 @@ menus:
     weight: "30"
 # Config file located at D:\Hugo\Piko\piko\exampleSite\config.yml
 # Run Hugo from D:\Hugo\Piko\piko> by using this command hugo server --themesDir ../..
-[![Netlify Status](https://api.netlify.com/api/v1/badges/6bbea5c3-c933-473e-b834-9eabda575b56/deploy-status)](https://app.netlify.com/sites/vocal-rabanadas-6f33e3/deploys)
